@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020
+#EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
 http://srvx.io:80/3646266796/fireurl.co/72599
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 SD
 http://srvx.io:80/3646266796/fireurl.co/72993
@@ -27,12 +27,12 @@ http://srvx.io:80/3646266796/fireurl.co/71769
 http://srvx.io:80/3646266796/fireurl.co/71770
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
 http://srvx.io:80/3646266796/fireurl.co/71771
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | 4K [FHDR]",Animal Planet 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/71774
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD
 http://srvx.io:80/3646266796/fireurl.co/71772
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/71773
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | 4K [FHDR]",Animal Planet 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/71774
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet HD
 http://srvx.io:80/3646266796/fireurl.co/71775
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet SD
@@ -53,6 +53,8 @@ http://srvx.io:80/3646266796/fireurl.co/71782
 http://srvx.io:80/3646266796/fireurl.co/71783
 #EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN SD
 http://srvx.io:80/3646266796/fireurl.co/71784
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band BA SD
+http://srvx.io:80/3646266796/fireurl.co/72620
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD
 http://srvx.io:80/3646266796/fireurl.co/71785
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD [H265]
@@ -75,16 +77,18 @@ http://srvx.io:80/3646266796/fireurl.co/71793
 http://srvx.io:80/3646266796/fireurl.co/71794
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Prudente SD
 http://srvx.io:80/3646266796/fireurl.co/71795
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | 4K [FHDR]",Band RJ 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/71798
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ FHD
 http://srvx.io:80/3646266796/fireurl.co/71796
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/71797
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | 4K [FHDR]",Band RJ 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/71798
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ HD
 http://srvx.io:80/3646266796/fireurl.co/71799
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ SD
 http://srvx.io:80/3646266796/fireurl.co/71800
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band SP HD
+http://srvx.io:80/3646266796/fireurl.co/72597
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD
 http://srvx.io:80/3646266796/fireurl.co/71801
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD [H265]
@@ -139,16 +143,36 @@ http://srvx.io:80/3646266796/fireurl.co/71825
 http://srvx.io:80/3646266796/fireurl.co/71826
 #EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony SD
 http://srvx.io:80/3646266796/fireurl.co/71827
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | 4K [FHDR]",Cartoon Network 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/71830
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD
 http://srvx.io:80/3646266796/fireurl.co/71828
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/71829
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | 4K [FHDR]",Cartoon Network 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/71830
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network HD
 http://srvx.io:80/3646266796/fireurl.co/71831
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
 http://srvx.io:80/3646266796/fireurl.co/71832
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 1 HD
+http://srvx.io:80/3646266796/fireurl.co/72994
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 10 HD
+http://srvx.io:80/3646266796/fireurl.co/73003
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 2 HD
+http://srvx.io:80/3646266796/fireurl.co/72995
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 3 HD
+http://srvx.io:80/3646266796/fireurl.co/72996
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 4 HD
+http://srvx.io:80/3646266796/fireurl.co/72997
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 5 HD
+http://srvx.io:80/3646266796/fireurl.co/72998
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 6 HD
+http://srvx.io:80/3646266796/fireurl.co/72999
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 7 HD
+http://srvx.io:80/3646266796/fireurl.co/73000
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 8 HD
+http://srvx.io:80/3646266796/fireurl.co/73001
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 9 HD
+http://srvx.io:80/3646266796/fireurl.co/73002
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD
 http://srvx.io:80/3646266796/fireurl.co/71833
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
@@ -167,12 +191,12 @@ http://srvx.io:80/3646266796/fireurl.co/71839
 http://srvx.io:80/3646266796/fireurl.co/71840
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN International SD
 http://srvx.io:80/3646266796/fireurl.co/71841
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | 4K [FHDR]",Combate 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/71844
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD
 http://srvx.io:80/3646266796/fireurl.co/71842
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/71843
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | 4K [FHDR]",Combate 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/71844
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate HD
 http://srvx.io:80/3646266796/fireurl.co/71845
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate SD
@@ -185,6 +209,38 @@ http://srvx.io:80/3646266796/fireurl.co/71848
 http://srvx.io:80/3646266796/fireurl.co/71849
 #EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central SD
 http://srvx.io:80/3646266796/fireurl.co/71850
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD
+http://srvx.io:80/3646266796/fireurl.co/72977
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/72978
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 HD
+http://srvx.io:80/3646266796/fireurl.co/72979
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 SD
+http://srvx.io:80/3646266796/fireurl.co/72980
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD
+http://srvx.io:80/3646266796/fireurl.co/72981
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/72982
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 HD
+http://srvx.io:80/3646266796/fireurl.co/72983
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 SD
+http://srvx.io:80/3646266796/fireurl.co/72984
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD
+http://srvx.io:80/3646266796/fireurl.co/72985
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/72986
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 HD
+http://srvx.io:80/3646266796/fireurl.co/72987
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 SD
+http://srvx.io:80/3646266796/fireurl.co/72988
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD
+http://srvx.io:80/3646266796/fireurl.co/72989
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/72990
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 HD
+http://srvx.io:80/3646266796/fireurl.co/72991
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 SD
+http://srvx.io:80/3646266796/fireurl.co/72992
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
 http://srvx.io:80/3646266796/fireurl.co/71851
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD [H265]
@@ -207,12 +263,14 @@ http://srvx.io:80/3646266796/fireurl.co/71859
 http://srvx.io:80/3646266796/fireurl.co/71860
 #EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 SD
 http://srvx.io:80/3646266796/fireurl.co/71861
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 2 HD
+http://srvx.io:80/3646266796/fireurl.co/72630
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/71864
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD
 http://srvx.io:80/3646266796/fireurl.co/71862
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/71863
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/71864
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel HD
 http://srvx.io:80/3646266796/fireurl.co/71865
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel SD
@@ -283,6 +341,10 @@ http://srvx.io:80/3646266796/fireurl.co/71897
 http://srvx.io:80/3646266796/fireurl.co/71898
 #EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD SD
 http://srvx.io:80/3646266796/fireurl.co/71899
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",DogTV FHD
+http://srvx.io:80/3646266796/fireurl.co/76922
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",DogTV HD
+http://srvx.io:80/3646266796/fireurl.co/76923
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD
 http://srvx.io:80/3646266796/fireurl.co/71900
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD [H265]
@@ -291,12 +353,30 @@ http://srvx.io:80/3646266796/fireurl.co/71901
 http://srvx.io:80/3646266796/fireurl.co/71902
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! SD
 http://srvx.io:80/3646266796/fireurl.co/71903
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 1 FHD
-http://srvx.io:80/3646266796/fireurl.co/71904
 #EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 1 HD
+http://srvx.io:80/3646266796/fireurl.co/71904
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 2 HD
 http://srvx.io:80/3646266796/fireurl.co/71905
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 1 SD
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 3 HD
 http://srvx.io:80/3646266796/fireurl.co/71906
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Ei Plus 4 HD
+http://srvx.io:80/3646266796/fireurl.co/76671
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Ei Plus 5 HD
+http://srvx.io:80/3646266796/fireurl.co/76672
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Ei Plus 6 HD
+http://srvx.io:80/3646266796/fireurl.co/76673
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 1 FHD
+http://srvx.io:80/3646266796/fireurl.co/73254
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 2 FHD
+http://srvx.io:80/3646266796/fireurl.co/73255
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 3 FHD
+http://srvx.io:80/3646266796/fireurl.co/73256
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 4 FHD
+http://srvx.io:80/3646266796/fireurl.co/73257
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 5 FHD
+http://srvx.io:80/3646266796/fireurl.co/73258
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 6 FHD
+http://srvx.io:80/3646266796/fireurl.co/73259
 #EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD
 http://srvx.io:80/3646266796/fireurl.co/71907
 #EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD [H265]
@@ -305,6 +385,8 @@ http://srvx.io:80/3646266796/fireurl.co/71908
 http://srvx.io:80/3646266796/fireurl.co/71909
 #EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 SD
 http://srvx.io:80/3646266796/fireurl.co/71910
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K [FHDR]",ESPN 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/71921
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD
 http://srvx.io:80/3646266796/fireurl.co/71911
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD [H265]
@@ -325,12 +407,12 @@ http://srvx.io:80/3646266796/fireurl.co/71918
 http://srvx.io:80/3646266796/fireurl.co/71919
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/71920
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K [FHDR]",ESPN 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/71921
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN HD
 http://srvx.io:80/3646266796/fireurl.co/71922
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN SD
 http://srvx.io:80/3646266796/fireurl.co/71923
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 
+http://srvx.io:80/3646266796/fireurl.co/73005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD
 http://srvx.io:80/3646266796/fireurl.co/71924
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD [H265]
@@ -387,22 +469,22 @@ http://srvx.io:80/3646266796/fireurl.co/71949
 http://srvx.io:80/3646266796/fireurl.co/71950
 #EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox SD
 http://srvx.io:80/3646266796/fireurl.co/71951
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | 4K [FHDR]",Fox Sports 2 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/71954
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD
 http://srvx.io:80/3646266796/fireurl.co/71952
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/71953
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | 4K [FHDR]",Fox Sports 2 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/71954
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 HD
 http://srvx.io:80/3646266796/fireurl.co/71955
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 SD
 http://srvx.io:80/3646266796/fireurl.co/71956
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | 4K [FHDR]",Fox Sports 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/71959
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD
 http://srvx.io:80/3646266796/fireurl.co/71957
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/71958
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | 4K [FHDR]",Fox Sports 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/71959
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports HD
 http://srvx.io:80/3646266796/fireurl.co/71960
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports SD
@@ -435,6 +517,14 @@ http://srvx.io:80/3646266796/fireurl.co/71976
 http://srvx.io:80/3646266796/fireurl.co/71977
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas SD
 http://srvx.io:80/3646266796/fireurl.co/71978
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/72590
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto HD
+http://srvx.io:80/3646266796/fireurl.co/72589
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
+http://srvx.io:80/3646266796/fireurl.co/72591
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos SD
+http://srvx.io:80/3646266796/fireurl.co/72592
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD
 http://srvx.io:80/3646266796/fireurl.co/71979
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
@@ -471,9 +561,9 @@ http://srvx.io:80/3646266796/fireurl.co/71994
 http://srvx.io:80/3646266796/fireurl.co/71995
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar SD
 http://srvx.io:80/3646266796/fireurl.co/71996
-#EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo",Globo Minas FHD
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas FHD
 http://srvx.io:80/3646266796/fireurl.co/71970
-#EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo",Globo Minas HD
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas HD
 http://srvx.io:80/3646266796/fireurl.co/71971
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas SD
 http://srvx.io:80/3646266796/fireurl.co/71972
@@ -515,15 +605,19 @@ http://srvx.io:80/3646266796/fireurl.co/72013
 http://srvx.io:80/3646266796/fireurl.co/72014
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul SD
 http://srvx.io:80/3646266796/fireurl.co/72015
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
+http://srvx.io:80/3646266796/fireurl.co/72617
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas HD
+http://srvx.io:80/3646266796/fireurl.co/72618
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre FHD
 http://srvx.io:80/3646266796/fireurl.co/72016
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre HD
 http://srvx.io:80/3646266796/fireurl.co/72017
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
 http://srvx.io:80/3646266796/fireurl.co/72018
-#EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo",Globo Rede Amazonica Manaus FHD
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus FHD
 http://srvx.io:80/3646266796/fireurl.co/72019
-#EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo",Globo Rede Amazonica Manaus HD
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus HD
 http://srvx.io:80/3646266796/fireurl.co/72020
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus SD
 http://srvx.io:80/3646266796/fireurl.co/72021
@@ -539,6 +633,12 @@ http://srvx.io:80/3646266796/fireurl.co/72025
 http://srvx.io:80/3646266796/fireurl.co/72026
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ SD
 http://srvx.io:80/3646266796/fireurl.co/72027
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Curitiba FHD
+http://srvx.io:80/3646266796/fireurl.co/72625
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Curitiba HD
+http://srvx.io:80/3646266796/fireurl.co/72626
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Curitiba SD
+http://srvx.io:80/3646266796/fireurl.co/72627
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai FHD
 http://srvx.io:80/3646266796/fireurl.co/72028
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai HD
@@ -641,10 +741,10 @@ http://srvx.io:80/3646266796/fireurl.co/72076
 http://srvx.io:80/3646266796/fireurl.co/72077
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena SD
 http://srvx.io:80/3646266796/fireurl.co/72078
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul FHD
-http://srvx.io:80/3646266796/fireurl.co/72079
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | 4K [FHDR]",Globo TV Rio Sul 4K FHDR
 http://srvx.io:80/3646266796/fireurl.co/72080
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul FHD
+http://srvx.io:80/3646266796/fireurl.co/72079
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul HD
 http://srvx.io:80/3646266796/fireurl.co/72081
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul SD
@@ -673,6 +773,16 @@ http://srvx.io:80/3646266796/fireurl.co/72092
 http://srvx.io:80/3646266796/fireurl.co/72093
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste SD
 http://srvx.io:80/3646266796/fireurl.co/72094
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Bauru SD
+http://srvx.io:80/3646266796/fireurl.co/72616
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM S.J Rio Preto SD
+http://srvx.io:80/3646266796/fireurl.co/72622
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
+http://srvx.io:80/3646266796/fireurl.co/72623
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos SD
+http://srvx.io:80/3646266796/fireurl.co/72596
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos SD
+http://srvx.io:80/3646266796/fireurl.co/72624
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares FHD
 http://srvx.io:80/3646266796/fireurl.co/72095
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares HD
@@ -799,6 +909,8 @@ http://srvx.io:80/3646266796/fireurl.co/72155
 http://srvx.io:80/3646266796/fireurl.co/72156
 #EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime SD
 http://srvx.io:80/3646266796/fireurl.co/72157
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Liga Futsal 2020 HD
+http://srvx.io:80/3646266796/fireurl.co/73006
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD
 http://srvx.io:80/3646266796/fireurl.co/72158
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD [H265]
@@ -807,6 +919,8 @@ http://srvx.io:80/3646266796/fireurl.co/72159
 http://srvx.io:80/3646266796/fireurl.co/72160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like SD
 http://srvx.io:80/3646266796/fireurl.co/72161
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Love Nature FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/73004
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais Globosat FHD
 http://srvx.io:80/3646266796/fireurl.co/72162
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais Globosat FHD [H265]
@@ -815,12 +929,12 @@ http://srvx.io:80/3646266796/fireurl.co/72163
 http://srvx.io:80/3646266796/fireurl.co/72164
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais Globosat SD
 http://srvx.io:80/3646266796/fireurl.co/72165
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | 4K [FHDR]",Megapix 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/72168
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD
 http://srvx.io:80/3646266796/fireurl.co/72166
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/72167
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | 4K [FHDR]",Megapix 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/72168
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix HD
 http://srvx.io:80/3646266796/fireurl.co/72169
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix SD
@@ -841,12 +955,12 @@ http://srvx.io:80/3646266796/fireurl.co/72176
 http://srvx.io:80/3646266796/fireurl.co/72177
 #EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",MTV SD
 http://srvx.io:80/3646266796/fireurl.co/72178
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | 4K [FHDR]",Multishow 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/72181
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD
 http://srvx.io:80/3646266796/fireurl.co/72179
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/72180
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | 4K [FHDR]",Multishow 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/72181
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow HD
 http://srvx.io:80/3646266796/fireurl.co/72182
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow SD
@@ -859,6 +973,12 @@ http://srvx.io:80/3646266796/fireurl.co/72185
 http://srvx.io:80/3646266796/fireurl.co/72186
 #EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil SD
 http://srvx.io:80/3646266796/fireurl.co/72187
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 1 HD
+http://srvx.io:80/3646266796/fireurl.co/75026
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 2 HD
+http://srvx.io:80/3646266796/fireurl.co/77583
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 3 HD
+http://srvx.io:80/3646266796/fireurl.co/77584
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD
 http://srvx.io:80/3646266796/fireurl.co/72188
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD [H265]
@@ -875,12 +995,12 @@ http://srvx.io:80/3646266796/fireurl.co/72193
 http://srvx.io:80/3646266796/fireurl.co/72194
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Documentários",Nat Geo Wild SD
 http://srvx.io:80/3646266796/fireurl.co/72195
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | 4K [FHDR]",National Geographic 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/72198
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD
 http://srvx.io:80/3646266796/fireurl.co/72196
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/72197
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | 4K [FHDR]",National Geographic 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/72198
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic HD
 http://srvx.io:80/3646266796/fireurl.co/72199
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic SD
@@ -911,12 +1031,12 @@ http://srvx.io:80/3646266796/fireurl.co/72211
 http://srvx.io:80/3646266796/fireurl.co/72212
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD
 http://srvx.io:80/3646266796/fireurl.co/72213
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/72216
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno HD
 http://srvx.io:80/3646266796/fireurl.co/72214
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno SD
 http://srvx.io:80/3646266796/fireurl.co/72215
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/72216
 #EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD
 http://srvx.io:80/3646266796/fireurl.co/72217
 #EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
@@ -999,12 +1119,12 @@ http://srvx.io:80/3646266796/fireurl.co/72259
 http://srvx.io:80/3646266796/fireurl.co/72260
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 8 SD
 http://srvx.io:80/3646266796/fireurl.co/72261
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/72264
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
 http://srvx.io:80/3646266796/fireurl.co/72262
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/72263
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/72264
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
 http://srvx.io:80/3646266796/fireurl.co/72265
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
@@ -1017,18 +1137,486 @@ http://srvx.io:80/3646266796/fireurl.co/72268
 http://srvx.io:80/3646266796/fireurl.co/72269
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil SD
 http://srvx.io:80/3646266796/fireurl.co/72270
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: 24 Kitchen FHD
+http://srvx.io:80/3646266796/fireurl.co/74798
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: 24 Kitchen FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74799
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: A Bola TV
+http://srvx.io:80/3646266796/fireurl.co/74800
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: A Bola TV FHD
+http://srvx.io:80/3646266796/fireurl.co/74801
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Afro Music Channel
+http://srvx.io:80/3646266796/fireurl.co/74802
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AMC
+http://srvx.io:80/3646266796/fireurl.co/74803
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AMC FHD
+http://srvx.io:80/3646266796/fireurl.co/74804
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AMC H265
+http://srvx.io:80/3646266796/fireurl.co/74805
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: ARTV Parlamento
+http://srvx.io:80/3646266796/fireurl.co/74806
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN Black
+http://srvx.io:80/3646266796/fireurl.co/74807
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN Black FHD
+http://srvx.io:80/3646266796/fireurl.co/74808
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN Black FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74809
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN FHD
+http://srvx.io:80/3646266796/fireurl.co/74810
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74811
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN White
+http://srvx.io:80/3646266796/fireurl.co/74812
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN White FHD
+http://srvx.io:80/3646266796/fireurl.co/74813
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN White FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74814
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Baby TV
+http://srvx.io:80/3646266796/fireurl.co/74815
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BBC World News
+http://srvx.io:80/3646266796/fireurl.co/74816
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Blaze
+http://srvx.io:80/3646266796/fireurl.co/74817
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Blaze FHD
+http://srvx.io:80/3646266796/fireurl.co/74818
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Bloomberg
+http://srvx.io:80/3646266796/fireurl.co/74819
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Boomerang
+http://srvx.io:80/3646266796/fireurl.co/74820
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV
+http://srvx.io:80/3646266796/fireurl.co/74821
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV FHD
+http://srvx.io:80/3646266796/fireurl.co/74823
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74824
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV HD
+http://srvx.io:80/3646266796/fireurl.co/74825
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV SD
+http://srvx.io:80/3646266796/fireurl.co/74822
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Cacavision
+http://srvx.io:80/3646266796/fireurl.co/74826
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal 11
+http://srvx.io:80/3646266796/fireurl.co/74827
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal 11 FHD
+http://srvx.io:80/3646266796/fireurl.co/74828
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal 11 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74829
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal Historia
+http://srvx.io:80/3646266796/fireurl.co/74830
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal Panda
+http://srvx.io:80/3646266796/fireurl.co/74831
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal Q
+http://srvx.io:80/3646266796/fireurl.co/74832
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CANCAO NOVA
+http://srvx.io:80/3646266796/fireurl.co/74833
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Cartoon Network
+http://srvx.io:80/3646266796/fireurl.co/74834
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Caza e Pesca
+http://srvx.io:80/3646266796/fireurl.co/74835
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CBS Reality
+http://srvx.io:80/3646266796/fireurl.co/74836
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CineMundo
+http://srvx.io:80/3646266796/fireurl.co/74837
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CineMundo FHD
+http://srvx.io:80/3646266796/fireurl.co/74838
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Clubbing TV
+http://srvx.io:80/3646266796/fireurl.co/74839
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CMTV
+http://srvx.io:80/3646266796/fireurl.co/74840
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CMTV FHD
+http://srvx.io:80/3646266796/fireurl.co/74841
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CNBC
+http://srvx.io:80/3646266796/fireurl.co/74842
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CNN
+http://srvx.io:80/3646266796/fireurl.co/74843
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Crime Investigation
+http://srvx.io:80/3646266796/fireurl.co/74844
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Discovery Channel
+http://srvx.io:80/3646266796/fireurl.co/74845
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Discovery Channel FHD
+http://srvx.io:80/3646266796/fireurl.co/74846
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Discovery FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74847
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Disney Channel
+http://srvx.io:80/3646266796/fireurl.co/74848
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Disney Junior
+http://srvx.io:80/3646266796/fireurl.co/74849
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Dog TV FHD
+http://srvx.io:80/3646266796/fireurl.co/74850
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: E! Entertainment
+http://srvx.io:80/3646266796/fireurl.co/74851
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 FHD
+http://srvx.io:80/3646266796/fireurl.co/74853
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74854
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 HD
+http://srvx.io:80/3646266796/fireurl.co/74855
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 SD
+http://srvx.io:80/3646266796/fireurl.co/74852
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 FHD
+http://srvx.io:80/3646266796/fireurl.co/74857
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74858
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 HD
+http://srvx.io:80/3646266796/fireurl.co/74859
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 SD
+http://srvx.io:80/3646266796/fireurl.co/74856
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 3 FHD
+http://srvx.io:80/3646266796/fireurl.co/74861
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 3 HD
+http://srvx.io:80/3646266796/fireurl.co/74862
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 3 SD
+http://srvx.io:80/3646266796/fireurl.co/74860
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 4 FHD
+http://srvx.io:80/3646266796/fireurl.co/74864
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 4 HD
+http://srvx.io:80/3646266796/fireurl.co/74865
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 4 SD
+http://srvx.io:80/3646266796/fireurl.co/74863
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 5 FHD
+http://srvx.io:80/3646266796/fireurl.co/74867
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 5 HD
+http://srvx.io:80/3646266796/fireurl.co/74868
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 5 SD
+http://srvx.io:80/3646266796/fireurl.co/74866
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 6 FHD
+http://srvx.io:80/3646266796/fireurl.co/74870
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 6 SD
+http://srvx.io:80/3646266796/fireurl.co/74869
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Euronews
+http://srvx.io:80/3646266796/fireurl.co/74871
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eurosport 1 FHD
+http://srvx.io:80/3646266796/fireurl.co/74872
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: EuroSport 1 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74873
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eurosport 2
+http://srvx.io:80/3646266796/fireurl.co/74874
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fashion TV
+http://srvx.io:80/3646266796/fireurl.co/74875
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fight Network FHD
+http://srvx.io:80/3646266796/fireurl.co/74876
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fine Living Network FHD
+http://srvx.io:80/3646266796/fireurl.co/74877
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Food Network FHD
+http://srvx.io:80/3646266796/fireurl.co/74878
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox
+http://srvx.io:80/3646266796/fireurl.co/74879
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Comedy
+http://srvx.io:80/3646266796/fireurl.co/74880
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Comedy FHD
+http://srvx.io:80/3646266796/fireurl.co/74881
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Crime
+http://srvx.io:80/3646266796/fireurl.co/74882
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Crime FHD
+http://srvx.io:80/3646266796/fireurl.co/74883
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: FOX Crime FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74884
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox FHD
+http://srvx.io:80/3646266796/fireurl.co/74885
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: FOX FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74886
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Life
+http://srvx.io:80/3646266796/fireurl.co/74887
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Life FHD
+http://srvx.io:80/3646266796/fireurl.co/74888
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: FOX Life FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74889
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Movies
+http://srvx.io:80/3646266796/fireurl.co/74890
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Movies FHD
+http://srvx.io:80/3646266796/fireurl.co/74891
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox News
+http://srvx.io:80/3646266796/fireurl.co/74892
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fuel TV
+http://srvx.io:80/3646266796/fireurl.co/74893
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fuel TV FHD
+http://srvx.io:80/3646266796/fireurl.co/74894
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Hollywood
+http://srvx.io:80/3646266796/fireurl.co/74895
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Hollywood FHD
+http://srvx.io:80/3646266796/fireurl.co/74896
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Hollywood FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74897
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: IConcerts FHD
+http://srvx.io:80/3646266796/fireurl.co/74898
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: ID Investigation Discovery FHD
+http://srvx.io:80/3646266796/fireurl.co/74899
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Jim Jam
+http://srvx.io:80/3646266796/fireurl.co/74900
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Kombat Sport
+http://srvx.io:80/3646266796/fireurl.co/74901
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: LocalVisao HD
+http://srvx.io:80/3646266796/fireurl.co/74902
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Luxe.TV FHD
+http://srvx.io:80/3646266796/fireurl.co/74903
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MCM Pop
+http://srvx.io:80/3646266796/fireurl.co/74904
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MCM Top
+http://srvx.io:80/3646266796/fireurl.co/74905
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Mezzo
+http://srvx.io:80/3646266796/fireurl.co/74906
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Motorvision
+http://srvx.io:80/3646266796/fireurl.co/74907
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MTV Portugal
+http://srvx.io:80/3646266796/fireurl.co/74908
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MTV Portugal FHD
+http://srvx.io:80/3646266796/fireurl.co/74909
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MVM TV
+http://srvx.io:80/3646266796/fireurl.co/74910
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: My Cuisinne
+http://srvx.io:80/3646266796/fireurl.co/74911
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo
+http://srvx.io:80/3646266796/fireurl.co/74912
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo FHD
+http://srvx.io:80/3646266796/fireurl.co/74913
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74914
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo Wild
+http://srvx.io:80/3646266796/fireurl.co/74915
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo Wild FHD
+http://srvx.io:80/3646266796/fireurl.co/74916
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NBA
+http://srvx.io:80/3646266796/fireurl.co/74917
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NBA FHD
+http://srvx.io:80/3646266796/fireurl.co/74918
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nick JR.
+http://srvx.io:80/3646266796/fireurl.co/74919
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nickelodeon
+http://srvx.io:80/3646266796/fireurl.co/74920
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NOS Studios
+http://srvx.io:80/3646266796/fireurl.co/74921
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NOS Studios FHD
+http://srvx.io:80/3646266796/fireurl.co/74922
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NOS Studios FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74923
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Odisseia
+http://srvx.io:80/3646266796/fireurl.co/74924
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Odisseia FHD
+http://srvx.io:80/3646266796/fireurl.co/74925
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Panda Biggs
+http://srvx.io:80/3646266796/fireurl.co/74926
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: PFC
+http://srvx.io:80/3646266796/fireurl.co/74927
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Porto Canal
+http://srvx.io:80/3646266796/fireurl.co/74928
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Porto Canal FHD
+http://srvx.io:80/3646266796/fireurl.co/74929
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RECORD TV (NA)
+http://srvx.io:80/3646266796/fireurl.co/74930
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 1
+http://srvx.io:80/3646266796/fireurl.co/74931
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 1 FHD
+http://srvx.io:80/3646266796/fireurl.co/74932
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 1 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74933
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 2
+http://srvx.io:80/3646266796/fireurl.co/74934
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 2 FHD
+http://srvx.io:80/3646266796/fireurl.co/74935
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 2 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74936
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 3
+http://srvx.io:80/3646266796/fireurl.co/74937
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 3 FHD
+http://srvx.io:80/3646266796/fireurl.co/74938
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Acores
+http://srvx.io:80/3646266796/fireurl.co/74939
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Africa
+http://srvx.io:80/3646266796/fireurl.co/74940
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Madeira
+http://srvx.io:80/3646266796/fireurl.co/74941
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Memoria
+http://srvx.io:80/3646266796/fireurl.co/74942
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Santuario Fatima
+http://srvx.io:80/3646266796/fireurl.co/74943
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Saude FHD
+http://srvx.io:80/3646266796/fireurl.co/74944
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC
+http://srvx.io:80/3646266796/fireurl.co/74945
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Caras
+http://srvx.io:80/3646266796/fireurl.co/74946
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Caras FHD
+http://srvx.io:80/3646266796/fireurl.co/74947
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC FHD
+http://srvx.io:80/3646266796/fireurl.co/74948
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74949
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sic Kids FHD
+http://srvx.io:80/3646266796/fireurl.co/74950
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Mulher
+http://srvx.io:80/3646266796/fireurl.co/74951
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Mulher FHD
+http://srvx.io:80/3646266796/fireurl.co/74952
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Noticias
+http://srvx.io:80/3646266796/fireurl.co/74953
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Noticias FHD
+http://srvx.io:80/3646266796/fireurl.co/74954
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Radical
+http://srvx.io:80/3646266796/fireurl.co/74955
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Radical FHD
+http://srvx.io:80/3646266796/fireurl.co/74956
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sky News
+http://srvx.io:80/3646266796/fireurl.co/74957
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1
+http://srvx.io:80/3646266796/fireurl.co/74958
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 FHD
+http://srvx.io:80/3646266796/fireurl.co/74960
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74961
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 HD
+http://srvx.io:80/3646266796/fireurl.co/74962
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 SD
+http://srvx.io:80/3646266796/fireurl.co/74959
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2
+http://srvx.io:80/3646266796/fireurl.co/74963
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 FHD
+http://srvx.io:80/3646266796/fireurl.co/74965
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74966
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 HD
+http://srvx.io:80/3646266796/fireurl.co/74967
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 SD
+http://srvx.io:80/3646266796/fireurl.co/74964
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3
+http://srvx.io:80/3646266796/fireurl.co/74968
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3 FHD
+http://srvx.io:80/3646266796/fireurl.co/74969
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74970
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3 HD
+http://srvx.io:80/3646266796/fireurl.co/74971
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 4
+http://srvx.io:80/3646266796/fireurl.co/74972
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 4 FHD
+http://srvx.io:80/3646266796/fireurl.co/74973
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 4 HD
+http://srvx.io:80/3646266796/fireurl.co/74974
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 5
+http://srvx.io:80/3646266796/fireurl.co/74975
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 5 FHD
+http://srvx.io:80/3646266796/fireurl.co/74976
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 5 HD
+http://srvx.io:80/3646266796/fireurl.co/74977
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV NBA FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/74978
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV+
+http://srvx.io:80/3646266796/fireurl.co/74979
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV+ FHD
+http://srvx.io:80/3646266796/fireurl.co/74980
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sporting TV
+http://srvx.io:80/3646266796/fireurl.co/74981
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sporting TV FHD
+http://srvx.io:80/3646266796/fireurl.co/74982
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SyFy
+http://srvx.io:80/3646266796/fireurl.co/74983
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SyFy FHD
+http://srvx.io:80/3646266796/fireurl.co/74984
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TCV Internacional
+http://srvx.io:80/3646266796/fireurl.co/74985
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TLC
+http://srvx.io:80/3646266796/fireurl.co/74986
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Toros TV
+http://srvx.io:80/3646266796/fireurl.co/74987
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TPA
+http://srvx.io:80/3646266796/fireurl.co/74988
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TPA Internacional
+http://srvx.io:80/3646266796/fireurl.co/74989
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Trace & Urban
+http://srvx.io:80/3646266796/fireurl.co/74990
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Trace & Urban FHD
+http://srvx.io:80/3646266796/fireurl.co/74991
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Trace Toca
+http://srvx.io:80/3646266796/fireurl.co/74992
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Travel Channel
+http://srvx.io:80/3646266796/fireurl.co/74993
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Travel Channel FHD
+http://srvx.io:80/3646266796/fireurl.co/74994
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Globo
+http://srvx.io:80/3646266796/fireurl.co/74995
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Globo FHD
+http://srvx.io:80/3646266796/fireurl.co/74996
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Globo NOW
+http://srvx.io:80/3646266796/fireurl.co/74997
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV RECORD
+http://srvx.io:80/3646266796/fireurl.co/74998
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Record FHD
+http://srvx.io:80/3646266796/fireurl.co/74999
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Series FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/75000
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVC News
+http://srvx.io:80/3646266796/fireurl.co/75001
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine ACTION
+http://srvx.io:80/3646266796/fireurl.co/75002
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine ACTION FHD
+http://srvx.io:80/3646266796/fireurl.co/75003
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Action FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/75004
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EDITION
+http://srvx.io:80/3646266796/fireurl.co/75005
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EDITION FHD
+http://srvx.io:80/3646266796/fireurl.co/75006
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Edition FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/75007
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EMOTION
+http://srvx.io:80/3646266796/fireurl.co/75008
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EMOTION FHD
+http://srvx.io:80/3646266796/fireurl.co/75009
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Emotion FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/75010
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine TOP
+http://srvx.io:80/3646266796/fireurl.co/75011
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine TOP FHD
+http://srvx.io:80/3646266796/fireurl.co/75012
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Top FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/75013
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI
+http://srvx.io:80/3646266796/fireurl.co/75014
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI 24
+http://srvx.io:80/3646266796/fireurl.co/75015
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI 24 FHD
+http://srvx.io:80/3646266796/fireurl.co/75016
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI FHD
+http://srvx.io:80/3646266796/fireurl.co/75017
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/75020
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Ficcao
+http://srvx.io:80/3646266796/fireurl.co/75018
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Ficcao FHD
+http://srvx.io:80/3646266796/fireurl.co/75019
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Reality
+http://srvx.io:80/3646266796/fireurl.co/75021
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Reality FHD
+http://srvx.io:80/3646266796/fireurl.co/75022
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: VH1
+http://srvx.io:80/3646266796/fireurl.co/75023
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: VH1 Classic
+http://srvx.io:80/3646266796/fireurl.co/75024
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: ZAP Viva FHD
+http://srvx.io:80/3646266796/fireurl.co/75025
 #EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News FHD
 http://srvx.io:80/3646266796/fireurl.co/72271
 #EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News HD
 http://srvx.io:80/3646266796/fireurl.co/72272
 #EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News SD
 http://srvx.io:80/3646266796/fireurl.co/72273
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV BA HD
+http://srvx.io:80/3646266796/fireurl.co/72976
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV Belem SD
+http://srvx.io:80/3646266796/fireurl.co/73262
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV Brasilia HD
+http://srvx.io:80/3646266796/fireurl.co/72629
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália FHD
 http://srvx.io:80/3646266796/fireurl.co/72274
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália HD
 http://srvx.io:80/3646266796/fireurl.co/72275
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália SD
 http://srvx.io:80/3646266796/fireurl.co/72276
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV ES FHD
+http://srvx.io:80/3646266796/fireurl.co/77651
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV ES HD
+http://srvx.io:80/3646266796/fireurl.co/77652
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV ES SD
+http://srvx.io:80/3646266796/fireurl.co/77653
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Goias FHD
 http://srvx.io:80/3646266796/fireurl.co/72277
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Goias HD
@@ -1053,6 +1641,8 @@ http://srvx.io:80/3646266796/fireurl.co/72286
 http://srvx.io:80/3646266796/fireurl.co/72287
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale SD
 http://srvx.io:80/3646266796/fireurl.co/72288
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV MG HD
+http://srvx.io:80/3646266796/fireurl.co/72619
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RIC Maringa FHD
 http://srvx.io:80/3646266796/fireurl.co/72289
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RIC Maringa FHD [H265]
@@ -1061,6 +1651,20 @@ http://srvx.io:80/3646266796/fireurl.co/72290
 http://srvx.io:80/3646266796/fireurl.co/72291
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RIC Maringa SD
 http://srvx.io:80/3646266796/fireurl.co/72292
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RJ HD
+http://srvx.io:80/3646266796/fireurl.co/72594
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV RS HD
+http://srvx.io:80/3646266796/fireurl.co/72974
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV RS SD
+http://srvx.io:80/3646266796/fireurl.co/72975
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV S.J. do Rio Preto HD
+http://srvx.io:80/3646266796/fireurl.co/73261
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP FHD
+http://srvx.io:80/3646266796/fireurl.co/77654
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP FHD  [H265]
+http://srvx.io:80/3646266796/fireurl.co/72595
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP HD
+http://srvx.io:80/3646266796/fireurl.co/72973
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida FHD
 http://srvx.io:80/3646266796/fireurl.co/72293
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida FHD [H265]
@@ -1093,8 +1697,18 @@ http://srvx.io:80/3646266796/fireurl.co/72307
 http://srvx.io:80/3646266796/fireurl.co/72308
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT RJ HD
 http://srvx.io:80/3646266796/fireurl.co/72302
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT RS HD
+http://srvx.io:80/3646266796/fireurl.co/75028
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SD
 http://srvx.io:80/3646266796/fireurl.co/72309
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT SP FHD
+http://srvx.io:80/3646266796/fireurl.co/77963
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT SP HD
+http://srvx.io:80/3646266796/fireurl.co/72598
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT SP SD
+http://srvx.io:80/3646266796/fireurl.co/77964
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT TV Alterosa HD
+http://srvx.io:80/3646266796/fireurl.co/72621
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Shoptime SD
 http://srvx.io:80/3646266796/fireurl.co/72311
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sic.png" group-title="Canais | Variedades",SIC Internacional SD
@@ -1131,12 +1745,12 @@ http://srvx.io:80/3646266796/fireurl.co/72326
 http://srvx.io:80/3646266796/fireurl.co/72327
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD
 http://srvx.io:80/3646266796/fireurl.co/72328
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K [FHDR]",SporTV 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/72331
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD
 http://srvx.io:80/3646266796/fireurl.co/72329
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/72330
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K [FHDR]",SporTV 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/72331
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV HD
 http://srvx.io:80/3646266796/fireurl.co/72332
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD
@@ -1165,6 +1779,12 @@ http://srvx.io:80/3646266796/fireurl.co/72343
 http://srvx.io:80/3646266796/fireurl.co/72344
 #EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS SD
 http://srvx.io:80/3646266796/fireurl.co/72345
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM FHD
+http://srvx.io:80/3646266796/fireurl.co/73251
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM HD
+http://srvx.io:80/3646266796/fireurl.co/73252
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM SD 
+http://srvx.io:80/3646266796/fireurl.co/73253
 #EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action FHD
 http://srvx.io:80/3646266796/fireurl.co/72346
 #EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action FHD [H265]
@@ -1213,7 +1833,7 @@ http://srvx.io:80/3646266796/fireurl.co/72367
 http://srvx.io:80/3646266796/fireurl.co/72368
 #EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch SD
 http://srvx.io:80/3646266796/fireurl.co/72369
-#EXTINF:-1 tvg-logo="http://a5.vc/uYJ" group-title="Canais | Religiosos",Terra Viva SD
+#EXTINF:-1 tvg-logo="http://a5.vc/uYJ" group-title="Canais | Abertos",Terra Viva SD
 http://srvx.io:80/3646266796/fireurl.co/72370
 #EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC FHD
 http://srvx.io:80/3646266796/fireurl.co/72371
@@ -1223,22 +1843,22 @@ http://srvx.io:80/3646266796/fireurl.co/72372
 http://srvx.io:80/3646266796/fireurl.co/72373
 #EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC SD
 http://srvx.io:80/3646266796/fireurl.co/72374
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | 4K [FHDR]",TNT 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/72377
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT FHD
 http://srvx.io:80/3646266796/fireurl.co/72375
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/72376
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | 4K [FHDR]",TNT 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/72377
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT HD
 http://srvx.io:80/3646266796/fireurl.co/72378
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT SD
 http://srvx.io:80/3646266796/fireurl.co/72379
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | 4K [FHDR]",TNT Series 4K FHDR
+http://srvx.io:80/3646266796/fireurl.co/72382
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD
 http://srvx.io:80/3646266796/fireurl.co/72380
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
 http://srvx.io:80/3646266796/fireurl.co/72381
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | 4K [FHDR]",TNT Series 4K FHDR
-http://srvx.io:80/3646266796/fireurl.co/72382
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series HD
 http://srvx.io:80/3646266796/fireurl.co/72383
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series SD
@@ -1261,6 +1881,12 @@ http://srvx.io:80/3646266796/fireurl.co/72391
 http://srvx.io:80/3646266796/fireurl.co/72392
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil SD
 http://srvx.io:80/3646266796/fireurl.co/72393
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",TruTV FHD
+http://srvx.io:80/3646266796/fireurl.co/76668
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",TruTV HD
+http://srvx.io:80/3646266796/fireurl.co/76669
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",TruTV SD
+http://srvx.io:80/3646266796/fireurl.co/76670
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida FHD
 http://srvx.io:80/3646266796/fireurl.co/72394
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida FHD [H265]
@@ -1269,6 +1895,8 @@ http://srvx.io:80/3646266796/fireurl.co/72395
 http://srvx.io:80/3646266796/fireurl.co/72396
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida SD
 http://srvx.io:80/3646266796/fireurl.co/72397
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Aratu SBT Bahia HD
+http://srvx.io:80/3646266796/fireurl.co/73260
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil 2 SD
 http://srvx.io:80/3646266796/fireurl.co/72398
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD
@@ -1283,12 +1911,18 @@ http://srvx.io:80/3646266796/fireurl.co/72402
 http://srvx.io:80/3646266796/fireurl.co/72403
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/cancaonova.png" group-title="Canais | Religiosos",TV Cancao Nova SD
 http://srvx.io:80/3646266796/fireurl.co/72404
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Diario Fortaleza HD
+http://srvx.io:80/3646266796/fireurl.co/72593
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar SD
+http://srvx.io:80/3646266796/fireurl.co/72628
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP FHD
 http://srvx.io:80/3646266796/fireurl.co/72405
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP HD
 http://srvx.io:80/3646266796/fireurl.co/72406
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP SD
 http://srvx.io:80/3646266796/fireurl.co/72407
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Justiça SD
+http://srvx.io:80/3646266796/fireurl.co/77620
 #EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD
 http://srvx.io:80/3646266796/fireurl.co/72408
 #EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD [H265]
@@ -1351,1311 +1985,3 @@ http://srvx.io:80/3646266796/fireurl.co/72436
 http://srvx.io:80/3646266796/fireurl.co/72437
 #EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo SD
 http://srvx.io:80/3646266796/fireurl.co/72438
-#EXTINF:-1 tvg-logo="http://a5.vc/IJJ" group-title="Canais | 24 Horas",[24H] 101 Dalmatas
-http://srvx.io:80/3646266796/fireurl.co/47458
-#EXTINF:-1 tvg-logo="http://a5.vc/84v" group-title="Canais | 24 Horas",[24H] 3 Palavrinhas
-http://srvx.io:80/3646266796/fireurl.co/47459
-#EXTINF:-1 tvg-logo="http://a5.vc/K1n" group-title="Canais | 24 Horas",[24H] A Bruxinha Sabrina
-http://srvx.io:80/3646266796/fireurl.co/47460
-#EXTINF:-1 tvg-logo="http://a5.vc/g5G" group-title="Canais | 24 Horas",[24H] A Cegonha Perna Fina
-http://srvx.io:80/3646266796/fireurl.co/47461
-#EXTINF:-1 tvg-logo="http://a5.vc/3T3" group-title="Canais | 24 Horas",[24H] A Cobrinha Azul
-http://srvx.io:80/3646266796/fireurl.co/47462
-#EXTINF:-1 tvg-logo="http://a5.vc/D4g" group-title="Canais | 24 Horas",[24H] A Familia Addams
-http://srvx.io:80/3646266796/fireurl.co/47463
-#EXTINF:-1 tvg-logo="http://a5.vc/CQl" group-title="Canais | 24 Horas",[24H] A Familia Dracula
-http://srvx.io:80/3646266796/fireurl.co/47464
-#EXTINF:-1 tvg-logo="http://a5.vc/5uJ" group-title="Canais | 24 Horas",[24H] A Feiticeira Facera
-http://srvx.io:80/3646266796/fireurl.co/47465
-#EXTINF:-1 tvg-logo="http://a5.vc/1kp" group-title="Canais | 24 Horas",[24H] A Mansao Foster para Amigos Imaginarios
-http://srvx.io:80/3646266796/fireurl.co/47466
-#EXTINF:-1 tvg-logo="http://a5.vc/wPD" group-title="Canais | 24 Horas",[24H] A Mumia
-http://srvx.io:80/3646266796/fireurl.co/47467
-#EXTINF:-1 tvg-logo="http://a5.vc/4Oe" group-title="Canais | 24 Horas",[24H] A Nossa Turma
-http://srvx.io:80/3646266796/fireurl.co/47468
-#EXTINF:-1 tvg-logo="http://a5.vc/vU6" group-title="Canais | 24 Horas",[24H] A Nova Escola do Imperador
-http://srvx.io:80/3646266796/fireurl.co/47469
-#EXTINF:-1 tvg-logo="http://a5.vc/dV9" group-title="Canais | 24 Horas",[24H] A Pantera Cor de Rosa
-http://srvx.io:80/3646266796/fireurl.co/47470
-#EXTINF:-1 tvg-logo="http://a5.vc/OSa" group-title="Canais | 24 Horas",[24H] A Pequena Sereia
-http://srvx.io:80/3646266796/fireurl.co/47471
-#EXTINF:-1 tvg-logo="http://a5.vc/rHq" group-title="Canais | 24 Horas",[24H] A Turma do Charlie Brown e Snoopy
-http://srvx.io:80/3646266796/fireurl.co/47472
-#EXTINF:-1 tvg-logo="http://a5.vc/Kvp" group-title="Canais | 24 Horas",[24H] A Turma do Pateta
-http://srvx.io:80/3646266796/fireurl.co/47473
-#EXTINF:-1 tvg-logo="http://a5.vc/n24" group-title="Canais | 24 Horas",[24H] A Turma do Pato Bill
-http://srvx.io:80/3646266796/fireurl.co/47474
-#EXTINF:-1 tvg-logo="http://a5.vc/Jl2" group-title="Canais | 24 Horas",[24H] A Vaca e o Frango
-http://srvx.io:80/3646266796/fireurl.co/47475
-#EXTINF:-1 tvg-logo="http://a5.vc/P0s" group-title="Canais | 24 Horas",[24H] A Vida e as Aventuras de Juniper Lee
-http://srvx.io:80/3646266796/fireurl.co/47476
-#EXTINF:-1 tvg-logo="http://a5.vc/4ct" group-title="Canais | 24 Horas",[24H] A Vida Moderna de Rocko
-http://srvx.io:80/3646266796/fireurl.co/47477
-#EXTINF:-1 tvg-logo="http://a5.vc/qQD" group-title="Canais | 24 Horas",[24H] Acampamento Lakebottom
-http://srvx.io:80/3646266796/fireurl.co/47478
-#EXTINF:-1 tvg-logo="http://a5.vc/6c4" group-title="Canais | 24 Horas",[24H] Aeon Flux [LEG]
-http://srvx.io:80/3646266796/fireurl.co/47479
-#EXTINF:-1 tvg-logo="http://a5.vc/iJ5" group-title="Canais | 24 Horas",[24H] Aladdin Desenho Animado
-http://srvx.io:80/3646266796/fireurl.co/47480
-#EXTINF:-1 tvg-logo="http://a5.vc/VY5" group-title="Canais | 24 Horas",[24H] Andy Panda
-http://srvx.io:80/3646266796/fireurl.co/47481
-#EXTINF:-1 tvg-logo="http://a5.vc/yT5" group-title="Canais | 24 Horas",[24H] Arquivo Caofidencial
-http://srvx.io:80/3646266796/fireurl.co/47482
-#EXTINF:-1 tvg-logo="http://a5.vc/dYB" group-title="Canais | 24 Horas",[24H] As Aventuras de Jackie Chan
-http://srvx.io:80/3646266796/fireurl.co/47483
-#EXTINF:-1 tvg-logo="http://a5.vc/Hpn" group-title="Canais | 24 Horas",[24H] As Aventuras de Piggley Winks
-http://srvx.io:80/3646266796/fireurl.co/47484
-#EXTINF:-1 tvg-logo="http://a5.vc/pHP" group-title="Canais | 24 Horas",[24H] As Aventuras de Tintim
-http://srvx.io:80/3646266796/fireurl.co/47485
-#EXTINF:-1 tvg-logo="http://a5.vc/xLa" group-title="Canais | 24 Horas",[24H] As Meninas Superpoderosas
-http://srvx.io:80/3646266796/fireurl.co/47486
-#EXTINF:-1 tvg-logo="http://a5.vc/Xzb" group-title="Canais | 24 Horas",[24H] As Mumias Vivas
-http://srvx.io:80/3646266796/fireurl.co/47487
-#EXTINF:-1 tvg-logo="http://a5.vc/M7L" group-title="Canais | 24 Horas",[24H] As Tartarugas Ninja
-http://srvx.io:80/3646266796/fireurl.co/47488
-#EXTINF:-1 tvg-logo="http://a5.vc/hQr" group-title="Canais | 24 Horas",[24H] As Trapalhadas de Flapjack
-http://srvx.io:80/3646266796/fireurl.co/47489
-#EXTINF:-1 tvg-logo="http://a5.vc/Af3" group-title="Canais | 24 Horas",[24H] As Trigemeas
-http://srvx.io:80/3646266796/fireurl.co/47490
-#EXTINF:-1 tvg-logo="http://a5.vc/JzI" group-title="Canais | 24 Horas",[24H] As Visoes Da Raven
-http://srvx.io:80/3646266796/fireurl.co/47491
-#EXTINF:-1 tvg-logo="http://a5.vc/zom" group-title="Canais | 24 Horas",[24H] Avatar
-http://srvx.io:80/3646266796/fireurl.co/47492
-#EXTINF:-1 tvg-logo="http://a5.vc/9bt" group-title="Canais | 24 Horas",[24H] Baby Looney Tunes
-http://srvx.io:80/3646266796/fireurl.co/47493
-#EXTINF:-1 tvg-logo="http://a5.vc/Lfw" group-title="Canais | 24 Horas",[24H] Backyardigans
-http://srvx.io:80/3646266796/fireurl.co/47494
-#EXTINF:-1 tvg-logo="http://a5.vc/wGB" group-title="Canais | 24 Horas",[24H] Bakugan
-http://srvx.io:80/3646266796/fireurl.co/47495
-#EXTINF:-1 tvg-logo="http://a5.vc/s4E" group-title="Canais | 24 Horas",[24H] Barney e seus Amigos
-http://srvx.io:80/3646266796/fireurl.co/47496
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S01
-http://srvx.io:80/3646266796/fireurl.co/47497
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S02
-http://srvx.io:80/3646266796/fireurl.co/47498
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S03
-http://srvx.io:80/3646266796/fireurl.co/47499
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S04
-http://srvx.io:80/3646266796/fireurl.co/47500
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S05
-http://srvx.io:80/3646266796/fireurl.co/47501
-#EXTINF:-1 tvg-logo="http://a5.vc/7oQ" group-title="Canais | 24 Horas",[24H] Batfink
-http://srvx.io:80/3646266796/fireurl.co/47502
-#EXTINF:-1 tvg-logo="http://a5.vc/4mo" group-title="Canais | 24 Horas",[24H] Beavis and Butt-Head [LEG]
-http://srvx.io:80/3646266796/fireurl.co/47503
-#EXTINF:-1 tvg-logo="http://a5.vc/DNU" group-title="Canais | 24 Horas",[24H] Ben 10 - S01
-http://srvx.io:80/3646266796/fireurl.co/47504
-#EXTINF:-1 tvg-logo="http://a5.vc/gkW" group-title="Canais | 24 Horas",[24H] Ben 10 - S02
-http://srvx.io:80/3646266796/fireurl.co/47505
-#EXTINF:-1 tvg-logo="http://a5.vc/5l8" group-title="Canais | 24 Horas",[24H] Ben 10 - S03
-http://srvx.io:80/3646266796/fireurl.co/47506
-#EXTINF:-1 tvg-logo="http://a5.vc/C4r" group-title="Canais | 24 Horas",[24H] Ben 10 - S04
-http://srvx.io:80/3646266796/fireurl.co/47507
-#EXTINF:-1 tvg-logo="http://a5.vc/7QF" group-title="Canais | 24 Horas",[24H] Betty Atomica
-http://srvx.io:80/3646266796/fireurl.co/47508
-#EXTINF:-1 tvg-logo="http://a5.vc/2X0" group-title="Canais | 24 Horas",[24H] Beyblade - S01
-http://srvx.io:80/3646266796/fireurl.co/47509
-#EXTINF:-1 tvg-logo="http://a5.vc/jZM" group-title="Canais | 24 Horas",[24H] Beyblade - S02
-http://srvx.io:80/3646266796/fireurl.co/47510
-#EXTINF:-1 tvg-logo="http://a5.vc/jFc" group-title="Canais | 24 Horas",[24H] Beyblade - S03
-http://srvx.io:80/3646266796/fireurl.co/47511
-#EXTINF:-1 tvg-logo="http://a5.vc/7PK" group-title="Canais | 24 Horas",[24H] Beyblade - S04
-http://srvx.io:80/3646266796/fireurl.co/47512
-#EXTINF:-1 tvg-logo="http://a5.vc/v63" group-title="Canais | 24 Horas",[24H] Bibo Pai e Bobi Filho
-http://srvx.io:80/3646266796/fireurl.co/47513
-#EXTINF:-1 tvg-logo="http://a5.vc/OYY" group-title="Canais | 24 Horas",[24H] Bicudo
-http://srvx.io:80/3646266796/fireurl.co/47514
-#EXTINF:-1 tvg-logo="http://a5.vc/A0v" group-title="Canais | 24 Horas",[24H] Black Kamen Rider
-http://srvx.io:80/3646266796/fireurl.co/47515
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S01
-http://srvx.io:80/3646266796/fireurl.co/47516
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S02
-http://srvx.io:80/3646266796/fireurl.co/47517
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S03
-http://srvx.io:80/3646266796/fireurl.co/47518
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S04
-http://srvx.io:80/3646266796/fireurl.co/47519
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S05
-http://srvx.io:80/3646266796/fireurl.co/47520
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S06
-http://srvx.io:80/3646266796/fireurl.co/47521
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S07
-http://srvx.io:80/3646266796/fireurl.co/47522
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S08
-http://srvx.io:80/3646266796/fireurl.co/47523
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S09
-http://srvx.io:80/3646266796/fireurl.co/47524
-#EXTINF:-1 tvg-logo="http://a5.vc/ehm" group-title="Canais | 24 Horas",[24H] Bob Esponja - S10
-http://srvx.io:80/3646266796/fireurl.co/47525
-#EXTINF:-1 tvg-logo="http://a5.vc/D3q" group-title="Canais | 24 Horas",[24H] Boneco Atomico
-http://srvx.io:80/3646266796/fireurl.co/47526
-#EXTINF:-1 tvg-logo="http://a5.vc/bhy" group-title="Canais | 24 Horas",[24H] BraveStarr
-http://srvx.io:80/3646266796/fireurl.co/47527
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S01
-http://srvx.io:80/3646266796/fireurl.co/47528
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S02
-http://srvx.io:80/3646266796/fireurl.co/47529
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S03
-http://srvx.io:80/3646266796/fireurl.co/47530
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S04
-http://srvx.io:80/3646266796/fireurl.co/47531
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S05
-http://srvx.io:80/3646266796/fireurl.co/47532
-#EXTINF:-1 tvg-logo="http://a5.vc/MJz" group-title="Canais | 24 Horas",[24H] Bucky Jibaku-kun
-http://srvx.io:80/3646266796/fireurl.co/47533
-#EXTINF:-1 tvg-logo="http://a5.vc/4qh" group-title="Canais | 24 Horas",[24H] Buzz Lightyear do Comando Estelar
-http://srvx.io:80/3646266796/fireurl.co/47534
-#EXTINF:-1 tvg-logo="http://a5.vc/jMX" group-title="Canais | 24 Horas",[24H] Cadillacs e Dinosauros
-http://srvx.io:80/3646266796/fireurl.co/47535
-#EXTINF:-1 tvg-logo="http://a5.vc/B22" group-title="Canais | 24 Horas",[24H] Caezinhos do Canil
-http://srvx.io:80/3646266796/fireurl.co/47536
-#EXTINF:-1 tvg-logo="http://a5.vc/KhE" group-title="Canais | 24 Horas",[24H] Campeoes do Sedokai
-http://srvx.io:80/3646266796/fireurl.co/47537
-#EXTINF:-1 tvg-logo="http://a5.vc/VoJ" group-title="Canais | YouTube",[24H] Canal YouTube - 4 Amigos Stand Up Comedy
-http://srvx.io:80/3646266796/fireurl.co/47538
-#EXTINF:-1 tvg-logo="http://a5.vc/Ofv" group-title="Canais | YouTube",[24H] Canal YouTube - 5 Alguma Coisa
-http://srvx.io:80/3646266796/fireurl.co/47539
-#EXTINF:-1 tvg-logo="http://a5.vc/noo" group-title="Canais | YouTube",[24H] Canal YouTube - Badin
-http://srvx.io:80/3646266796/fireurl.co/47540
-#EXTINF:-1 tvg-logo="http://a5.vc/rj2" group-title="Canais | YouTube",[24H] Canal YouTube - Barbixas
-http://srvx.io:80/3646266796/fireurl.co/47541
-#EXTINF:-1 tvg-logo="http://a5.vc/XmK" group-title="Canais | YouTube",[24H] Canal YouTube - BOOM
-http://srvx.io:80/3646266796/fireurl.co/47542
-#EXTINF:-1 tvg-logo="http://a5.vc/J9o" group-title="Canais | YouTube",[24H] Canal YouTube - Carol kyoko
-http://srvx.io:80/3646266796/fireurl.co/47543
-#EXTINF:-1 tvg-logo="http://a5.vc/qek" group-title="Canais | YouTube",[24H] Canal YouTube - Ciencia Todo Dia
-http://srvx.io:80/3646266796/fireurl.co/47544
-#EXTINF:-1 tvg-logo="http://a5.vc/a8I" group-title="Canais | YouTube",[24H] Canal YouTube - Dramaturgia Panico na TV
-http://srvx.io:80/3646266796/fireurl.co/47545
-#EXTINF:-1 tvg-logo="http://a5.vc/skQ" group-title="Canais | YouTube",[24H] Canal YouTube - Edu Primitivo
-http://srvx.io:80/3646266796/fireurl.co/47546
-#EXTINF:-1 tvg-logo="http://a5.vc/Ke2" group-title="Canais | YouTube",[24H] Canal YouTube - Encrenca RedeTV
-http://srvx.io:80/3646266796/fireurl.co/47547
-#EXTINF:-1 tvg-logo="http://a5.vc/uMp" group-title="Canais | YouTube",[24H] Canal YouTube - Fatos Desconhecidos
-http://srvx.io:80/3646266796/fireurl.co/47548
-#EXTINF:-1 tvg-logo="http://a5.vc/5Lr" group-title="Canais | YouTube",[24H] Canal YouTube - Fatos Insanos
-http://srvx.io:80/3646266796/fireurl.co/47549
-#EXTINF:-1 tvg-logo="http://a5.vc/gKl" group-title="Canais | YouTube",[24H] Canal YouTube - FitDance
-http://srvx.io:80/3646266796/fireurl.co/47550
-#EXTINF:-1 tvg-logo="http://a5.vc/mKa" group-title="Canais | YouTube",[24H] Canal YouTube - Gerson Albuquerque
-http://srvx.io:80/3646266796/fireurl.co/47551
-#EXTINF:-1 tvg-logo="http://a5.vc/xas" group-title="Canais | YouTube",[24H] Canal YouTube - INCRIVEL
-http://srvx.io:80/3646266796/fireurl.co/47552
-#EXTINF:-1 tvg-logo="http://a5.vc/Olw" group-title="Canais | YouTube",[24H] Canal YouTube - John Leitao
-http://srvx.io:80/3646266796/fireurl.co/47553
-#EXTINF:-1 tvg-logo="http://a5.vc/peH" group-title="Canais | YouTube",[24H] Canal YouTube - MASTER TRASH e PANICO CHEF
-http://srvx.io:80/3646266796/fireurl.co/47554
-#EXTINF:-1 tvg-logo="http://a5.vc/2gm" group-title="Canais | YouTube",[24H] Canal YouTube - MixReynold
-http://srvx.io:80/3646266796/fireurl.co/47555
-#EXTINF:-1 tvg-logo="http://a5.vc/B2I" group-title="Canais | YouTube",[24H] Canal YouTube - Na CorreRia
-http://srvx.io:80/3646266796/fireurl.co/47556
-#EXTINF:-1 tvg-logo="http://a5.vc/nPQ" group-title="Canais | YouTube",[24H] Canal YouTube - Pagode da Ofensa na Web
-http://srvx.io:80/3646266796/fireurl.co/47557
-#EXTINF:-1 tvg-logo="http://a5.vc/a8I" group-title="Canais | YouTube",[24H] Canal YouTube - PANICO TROLLAGENS
-http://srvx.io:80/3646266796/fireurl.co/47558
-#EXTINF:-1 tvg-logo="http://a5.vc/CBH" group-title="Canais | YouTube",[24H] Canal YouTube - Parafernalha
-http://srvx.io:80/3646266796/fireurl.co/47559
-#EXTINF:-1 tvg-logo="http://a5.vc/ldO" group-title="Canais | YouTube",[24H] Canal YouTube - Porta dos Fundos
-http://srvx.io:80/3646266796/fireurl.co/47560
-#EXTINF:-1 tvg-logo="http://a5.vc/6PY" group-title="Canais | YouTube",[24H] Canal YouTube - Rabisco
-http://srvx.io:80/3646266796/fireurl.co/47561
-#EXTINF:-1 tvg-logo="http://a5.vc/J1Q" group-title="Canais | YouTube",[24H] Canal YouTube - Refugio Mental
-http://srvx.io:80/3646266796/fireurl.co/47562
-#EXTINF:-1 tvg-logo="http://a5.vc/Sny" group-title="Canais | YouTube",[24H] Canal YouTube - South America Memes
-http://srvx.io:80/3646266796/fireurl.co/47563
-#EXTINF:-1 tvg-logo="http://a5.vc/QeF" group-title="Canais | YouTube",[24H] Canal YouTube - Voce na TV
-http://srvx.io:80/3646266796/fireurl.co/47564
-#EXTINF:-1 tvg-logo="http://a5.vc/6OH" group-title="Canais | YouTube",[24H] Canal YouTube - Voce Sabia part 1
-http://srvx.io:80/3646266796/fireurl.co/47565
-#EXTINF:-1 tvg-logo="http://a5.vc/6OH" group-title="Canais | YouTube",[24H] Canal YouTube - Voce Sabia part 2
-http://srvx.io:80/3646266796/fireurl.co/47566
-#EXTINF:-1 tvg-logo="http://a5.vc/7dA" group-title="Canais | YouTube",[24H] Canal YouTube - WEBBULLYING
-http://srvx.io:80/3646266796/fireurl.co/47567
-#EXTINF:-1 tvg-logo="http://a5.vc/CPx" group-title="Canais | YouTube",[24H] Canal YouTube - Ze Pequeno do Povo
-http://srvx.io:80/3646266796/fireurl.co/47568
-#EXTINF:-1 tvg-logo="http://a5.vc/Mrn" group-title="Canais | 24 Horas",[24H] Capitao Lento - Curta Metragem
-http://srvx.io:80/3646266796/fireurl.co/47569
-#EXTINF:-1 tvg-logo="http://a5.vc/Lhe" group-title="Canais | 24 Horas",[24H] Capitao Planeta
-http://srvx.io:80/3646266796/fireurl.co/47570
-#EXTINF:-1 tvg-logo="http://a5.vc/Th6" group-title="Canais | 24 Horas",[24H] Carangos e Motocas
-http://srvx.io:80/3646266796/fireurl.co/47571
-#EXTINF:-1 tvg-logo="http://a5.vc/6oh" group-title="Canais | 24 Horas",[24H] Careta e Mutreta - Curta Metragem [LEG]
-http://srvx.io:80/3646266796/fireurl.co/47572
-#EXTINF:-1 tvg-logo="http://a5.vc/qeK" group-title="Canais | 24 Horas",[24H] Carmen Sandiego
-http://srvx.io:80/3646266796/fireurl.co/47573
-#EXTINF:-1 tvg-logo="http://a5.vc/c2n" group-title="Canais | 24 Horas",[24H] Castelo Ra-Tim-Bum
-http://srvx.io:80/3646266796/fireurl.co/47574
-#EXTINF:-1 tvg-logo="http://a5.vc/jTX" group-title="Canais | 24 Horas",[24H] Caverna do Dragao
-http://srvx.io:80/3646266796/fireurl.co/47575
-#EXTINF:-1 tvg-logo="http://a5.vc/V0i" group-title="Canais | 24 Horas",[24H] Caves Classico - S01
-http://srvx.io:80/3646266796/fireurl.co/47576
-#EXTINF:-1 tvg-logo="http://a5.vc/V0i" group-title="Canais | 24 Horas",[24H] Caves Classico - S02
-http://srvx.io:80/3646266796/fireurl.co/47577
-#EXTINF:-1 tvg-logo="http://a5.vc/V0i" group-title="Canais | 24 Horas",[24H] Caves Classico - S03
-http://srvx.io:80/3646266796/fireurl.co/47578
-#EXTINF:-1 tvg-logo="http://a5.vc/V0i" group-title="Canais | 24 Horas",[24H] Caves Classico - S04
-http://srvx.io:80/3646266796/fireurl.co/47579
-#EXTINF:-1 tvg-logo="http://a5.vc/V0i" group-title="Canais | 24 Horas",[24H] Caves Classico - S05
-http://srvx.io:80/3646266796/fireurl.co/47580
-#EXTINF:-1 tvg-logo="http://a5.vc/V0i" group-title="Canais | 24 Horas",[24H] Caves Classico - S06
-http://srvx.io:80/3646266796/fireurl.co/47581
-#EXTINF:-1 tvg-logo="http://a5.vc/V0i" group-title="Canais | 24 Horas",[24H] Caves Classico - S07
-http://srvx.io:80/3646266796/fireurl.co/47582
-#EXTINF:-1 tvg-logo="http://a5.vc/X1i" group-title="Canais | 24 Horas",[24H] Centurions
-http://srvx.io:80/3646266796/fireurl.co/47583
-#EXTINF:-1 tvg-logo="http://a5.vc/D4A" group-title="Canais | 24 Horas",[24H] Charlie Chan
-http://srvx.io:80/3646266796/fireurl.co/47584
-#EXTINF:-1 tvg-logo="http://a5.vc/V0i" group-title="Canais | 24 Horas",[24H] Chaves - Classico (Extra)
-http://srvx.io:80/3646266796/fireurl.co/47585
-#EXTINF:-1 tvg-logo="http://a5.vc/AuA" group-title="Canais | 24 Horas",[24H] Chowder
-http://srvx.io:80/3646266796/fireurl.co/47586
-#EXTINF:-1 tvg-logo="http://a5.vc/7xQ" group-title="Canais | 24 Horas",[24H] Clarencio o Otimista
-http://srvx.io:80/3646266796/fireurl.co/47587
-#EXTINF:-1 tvg-logo="http://a5.vc/gdD" group-title="Canais | 24 Horas",[24H] Clifford o Gigante Cao Vermelho
-http://srvx.io:80/3646266796/fireurl.co/47588
-#EXTINF:-1 tvg-logo="http://a5.vc/ekv" group-title="Canais | 24 Horas",[24H] Clube dos Carros
-http://srvx.io:80/3646266796/fireurl.co/47589
-#EXTINF:-1 tvg-logo="http://a5.vc/Sni" group-title="Canais | 24 Horas",[24H] Coelho Ricochete
-http://srvx.io:80/3646266796/fireurl.co/47590
-#EXTINF:-1 tvg-logo="http://a5.vc/6Ur" group-title="Canais | 24 Horas",[24H] Colecao Bob Zoom
-http://srvx.io:80/3646266796/fireurl.co/47591
-#EXTINF:-1 tvg-logo="http://a5.vc/ZOL" group-title="Canais | 24 Horas",[24H] Comichao e Cocadinha [LEG]
-http://srvx.io:80/3646266796/fireurl.co/47592
-#EXTINF:-1 tvg-logo="http://a5.vc/olV" group-title="Canais | 24 Horas",[24H] Contos da Crypta - Animacao
-http://srvx.io:80/3646266796/fireurl.co/47593
-#EXTINF:-1 tvg-logo="http://a5.vc/zjF" group-title="Canais | 24 Horas",[24H] Coragem O Cao Covarde
-http://srvx.io:80/3646266796/fireurl.co/47594
-#EXTINF:-1 tvg-logo="http://a5.vc/5SO" group-title="Canais | 24 Horas",[24H] Corrida Espacial
-http://srvx.io:80/3646266796/fireurl.co/47595
-#EXTINF:-1 tvg-logo="http://a5.vc/81r" group-title="Canais | 24 Horas",[24H] Corrida Maluca
-http://srvx.io:80/3646266796/fireurl.co/47596
-#EXTINF:-1 tvg-logo="http://a5.vc/nkn" group-title="Canais | 24 Horas",[24H] Cyberchase a Corrida do Espaco
-http://srvx.io:80/3646266796/fireurl.co/47597
-#EXTINF:-1 tvg-logo="http://a5.vc/Uef" group-title="Canais | 24 Horas",[24H] Danny Phantom
-http://srvx.io:80/3646266796/fireurl.co/47598
-#EXTINF:-1 tvg-logo="http://a5.vc/cMh" group-title="Canais | 24 Horas",[24H] De Ferias Com Ex - S01
-http://srvx.io:80/3646266796/fireurl.co/47599
-#EXTINF:-1 tvg-logo="http://a5.vc/cMh" group-title="Canais | 24 Horas",[24H] De Ferias Com Ex - S02
-http://srvx.io:80/3646266796/fireurl.co/47600
-#EXTINF:-1 tvg-logo="http://a5.vc/cMh" group-title="Canais | 24 Horas",[24H] De Ferias Com Ex - S03
-http://srvx.io:80/3646266796/fireurl.co/47601
-#EXTINF:-1 tvg-logo="http://a5.vc/cMh" group-title="Canais | 24 Horas",[24H] De Ferias Com Ex - S04
-http://srvx.io:80/3646266796/fireurl.co/47602
-#EXTINF:-1 tvg-logo="http://a5.vc/Rdy" group-title="Canais | 24 Horas",[24H] De Volta Para O Futuro
-http://srvx.io:80/3646266796/fireurl.co/47603
-#EXTINF:-1 tvg-logo="http://a5.vc/Ix2" group-title="Canais | 24 Horas",[24H] Deby e Loid
-http://srvx.io:80/3646266796/fireurl.co/47604
-#EXTINF:-1 tvg-logo="http://a5.vc/J6P" group-title="Canais | 24 Horas",[24H] Delvin o Motoqueiro
-http://srvx.io:80/3646266796/fireurl.co/47605
-#EXTINF:-1 tvg-logo="http://a5.vc/TPK" group-title="Canais | 24 Horas",[24H] Denis o Pimentinha
-http://srvx.io:80/3646266796/fireurl.co/47606
-#EXTINF:-1 tvg-logo="http://a5.vc/W3i" group-title="Canais | 24 Horas",[24H] Desenhos Biblicos
-http://srvx.io:80/3646266796/fireurl.co/47607
-#EXTINF:-1 tvg-logo="http://a5.vc/BRw" group-title="Canais | 24 Horas",[24H] Dick Vigarista e Muttley - Maquinas Voadoras
-http://srvx.io:80/3646266796/fireurl.co/47608
-#EXTINF:-1 tvg-logo="http://a5.vc/2S2" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters - S01
-http://srvx.io:80/3646266796/fireurl.co/47609
-#EXTINF:-1 tvg-logo="http://a5.vc/FJo" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters - S02
-http://srvx.io:80/3646266796/fireurl.co/47610
-#EXTINF:-1 tvg-logo="http://a5.vc/2S2" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters - S03
-http://srvx.io:80/3646266796/fireurl.co/47611
-#EXTINF:-1 tvg-logo="http://a5.vc/2S2" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters - S04
-http://srvx.io:80/3646266796/fireurl.co/47612
-#EXTINF:-1 tvg-logo="http://a5.vc/2S2" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters - S05
-http://srvx.io:80/3646266796/fireurl.co/47613
-#EXTINF:-1 tvg-logo="http://a5.vc/JP3" group-title="Canais | 24 Horas",[24H] Dino Boy e o Vale Perdido
-http://srvx.io:80/3646266796/fireurl.co/47614
-#EXTINF:-1 tvg-logo="http://a5.vc/8Lh" group-title="Canais | 24 Horas",[24H] Dinossauro Rei
-http://srvx.io:80/3646266796/fireurl.co/47615
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S01
-http://srvx.io:80/3646266796/fireurl.co/47616
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S02
-http://srvx.io:80/3646266796/fireurl.co/47617
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S03
-http://srvx.io:80/3646266796/fireurl.co/47618
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S04
-http://srvx.io:80/3646266796/fireurl.co/47619
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S05
-http://srvx.io:80/3646266796/fireurl.co/47620
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S06
-http://srvx.io:80/3646266796/fireurl.co/47621
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S07
-http://srvx.io:80/3646266796/fireurl.co/47622
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S08
-http://srvx.io:80/3646266796/fireurl.co/47623
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S09
-http://srvx.io:80/3646266796/fireurl.co/47624
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S10
-http://srvx.io:80/3646266796/fireurl.co/47625
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S11
-http://srvx.io:80/3646266796/fireurl.co/47626
-#EXTINF:-1 tvg-logo="http://a5.vc/iAA" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio - S12
-http://srvx.io:80/3646266796/fireurl.co/47627
-#EXTINF:-1 tvg-logo="http://a5.vc/O89" group-title="Canais | 24 Horas",[24H] Don Dracula
-http://srvx.io:80/3646266796/fireurl.co/47628
-#EXTINF:-1 tvg-logo="http://a5.vc/wei" group-title="Canais | 24 Horas",[24H] Dora A Aventureira
-http://srvx.io:80/3646266796/fireurl.co/47629
-#EXTINF:-1 tvg-logo="http://a5.vc/myF" group-title="Canais | 24 Horas",[24H] Doug
-http://srvx.io:80/3646266796/fireurl.co/47630
-#EXTINF:-1 tvg-logo="http://a5.vc/Bo0" group-title="Canais | 24 Horas",[24H] Dr Calca Dimensional
-http://srvx.io:80/3646266796/fireurl.co/47631
-#EXTINF:-1 tvg-logo="http://a5.vc/c4T" group-title="Canais | 24 Horas",[24H] Dragon Ball GT
-http://srvx.io:80/3646266796/fireurl.co/47632
-#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S01
-http://srvx.io:80/3646266796/fireurl.co/47633
-#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S02
-http://srvx.io:80/3646266796/fireurl.co/47634
-#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S03
-http://srvx.io:80/3646266796/fireurl.co/47635
-#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S04
-http://srvx.io:80/3646266796/fireurl.co/47636
-#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S05
-http://srvx.io:80/3646266796/fireurl.co/47637
-#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga Androids
-http://srvx.io:80/3646266796/fireurl.co/47642
-#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Cell
-http://srvx.io:80/3646266796/fireurl.co/47638
-#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Freeza
-http://srvx.io:80/3646266796/fireurl.co/47639
-#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Garlic Jr
-http://srvx.io:80/3646266796/fireurl.co/47640
-#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Majin Boo
-http://srvx.io:80/3646266796/fireurl.co/47641
-#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga Sayajins
-http://srvx.io:80/3646266796/fireurl.co/47643
-#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga Torneio de Outro Mundo
-http://srvx.io:80/3646266796/fireurl.co/47644
-#EXTINF:-1 tvg-logo="http://a5.vc/AcI" group-title="Canais | 24 Horas",[24H] Drake e JOsh
-http://srvx.io:80/3646266796/fireurl.co/47645
-#EXTINF:-1 tvg-logo="http://a5.vc/7sk" group-title="Canais | 24 Horas",[24H] Droppy
-http://srvx.io:80/3646266796/fireurl.co/47646
-#EXTINF:-1 tvg-logo="http://a5.vc/UhX" group-title="Canais | 24 Horas",[24H] Duck Dodgers
-http://srvx.io:80/3646266796/fireurl.co/47647
-#EXTINF:-1 tvg-logo="http://a5.vc/fnH" group-title="Canais | 24 Horas",[24H] Duck Tales
-http://srvx.io:80/3646266796/fireurl.co/47648
-#EXTINF:-1 tvg-logo="http://a5.vc/d5K" group-title="Canais | 24 Horas",[24H] Dudley do Right
-http://srvx.io:80/3646266796/fireurl.co/47649
-#EXTINF:-1 tvg-logo="http://a5.vc/4Fn" group-title="Canais | 24 Horas",[24H] Duelo Xiaolin
-http://srvx.io:80/3646266796/fireurl.co/47650
-#EXTINF:-1 tvg-logo="http://a5.vc/2AF" group-title="Canais | 24 Horas",[24H] E O Lobo
-http://srvx.io:80/3646266796/fireurl.co/47651
-#EXTINF:-1 tvg-logo="http://a5.vc/zhN" group-title="Canais | 24 Horas",[24H] Edgar e Ellen
-http://srvx.io:80/3646266796/fireurl.co/47652
-#EXTINF:-1 tvg-logo="http://a5.vc/lSD" group-title="Canais | 24 Horas",[24H] Eek! The Cat
-http://srvx.io:80/3646266796/fireurl.co/47653
-#EXTINF:-1 tvg-logo="http://a5.vc/FmZ" group-title="Canais | 24 Horas",[24H] El Chap - S01
-http://srvx.io:80/3646266796/fireurl.co/47654
-#EXTINF:-1 tvg-logo="http://a5.vc/FmZ" group-title="Canais | 24 Horas",[24H] El Chap - S02
-http://srvx.io:80/3646266796/fireurl.co/47655
-#EXTINF:-1 tvg-logo="http://a5.vc/FmZ" group-title="Canais | 24 Horas",[24H] El Chap - S03
-http://srvx.io:80/3646266796/fireurl.co/47656
-#EXTINF:-1 tvg-logo="http://a5.vc/1NI" group-title="Canais | 24 Horas",[24H] Escolinha do Professor Raimundo
-http://srvx.io:80/3646266796/fireurl.co/47657
-#EXTINF:-1 tvg-logo="http://a5.vc/ufU" group-title="Canais | 24 Horas",[24H] Esquadrao do Tempo
-http://srvx.io:80/3646266796/fireurl.co/47658
-#EXTINF:-1 tvg-logo="http://a5.vc/k4n" group-title="Canais | 24 Horas",[24H] Esquadrao Especial Winspector
-http://srvx.io:80/3646266796/fireurl.co/47659
-#EXTINF:-1 tvg-logo="http://a5.vc/4ro" group-title="Canais | 24 Horas",[24H] Esquadrao Marte 2
-http://srvx.io:80/3646266796/fireurl.co/47660
-#EXTINF:-1 tvg-logo="http://a5.vc/NWp" group-title="Canais | 24 Horas",[24H] Esquilo Sem Grilo
-http://srvx.io:80/3646266796/fireurl.co/47661
-#EXTINF:-1 tvg-logo="http://a5.vc/UaP" group-title="Canais | 24 Horas",[24H] Estados Unidos de Archies
-http://srvx.io:80/3646266796/fireurl.co/47662
-#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S01
-http://srvx.io:80/3646266796/fireurl.co/47663
-#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S02
-http://srvx.io:80/3646266796/fireurl.co/47664
-#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S03
-http://srvx.io:80/3646266796/fireurl.co/47665
-#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S04
-http://srvx.io:80/3646266796/fireurl.co/47666
-#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S05
-http://srvx.io:80/3646266796/fireurl.co/47667
-#EXTINF:-1 tvg-logo="http://a5.vc/vhP" group-title="Canais | 24 Horas",[24H] Eu Sou o Maximo
-http://srvx.io:80/3646266796/fireurl.co/47668
-#EXTINF:-1 tvg-logo="http://a5.vc/gyy" group-title="Canais | 24 Horas",[24H] Fabulas da Disney
-http://srvx.io:80/3646266796/fireurl.co/47669
-#EXTINF:-1 tvg-logo="http://a5.vc/b6K" group-title="Canais | 24 Horas",[24H] Faisca e Fumaca
-http://srvx.io:80/3646266796/fireurl.co/47670
-#EXTINF:-1 tvg-logo="http://a5.vc/yQQ" group-title="Canais | 24 Horas",[24H] Falcao Azul e o Bionicao
-http://srvx.io:80/3646266796/fireurl.co/47671
-#EXTINF:-1 tvg-logo="http://a5.vc/ShT" group-title="Canais | 24 Horas",[24H] Familia DinOssauro
-http://srvx.io:80/3646266796/fireurl.co/47672
-#EXTINF:-1 tvg-logo="http://a5.vc/js3" group-title="Canais | 24 Horas",[24H] Fantasminha Legal
-http://srvx.io:80/3646266796/fireurl.co/47673
-#EXTINF:-1 tvg-logo="http://a5.vc/zIQ" group-title="Canais | 24 Horas",[24H] Fantasmino O Fantasma Galopante
-http://srvx.io:80/3646266796/fireurl.co/47674
-#EXTINF:-1 tvg-logo="http://a5.vc/XCx" group-title="Canais | 24 Horas",[24H] Flash Back 92 Clips
-http://srvx.io:80/3646266796/fireurl.co/47675
-#EXTINF:-1 tvg-logo="http://a5.vc/sT9" group-title="Canais | 24 Horas",[24H] Flash Gordon
-http://srvx.io:80/3646266796/fireurl.co/47676
-#EXTINF:-1 tvg-logo="http://a5.vc/JNx" group-title="Canais | 24 Horas",[24H] Fly O Pequeno Guerreiro
-http://srvx.io:80/3646266796/fireurl.co/47677
-#EXTINF:-1 tvg-logo="http://a5.vc/ozE" group-title="Canais | 24 Horas",[24H] Formiga Atomica
-http://srvx.io:80/3646266796/fireurl.co/47678
-#EXTINF:-1 tvg-logo="http://a5.vc/PWx" group-title="Canais | 24 Horas",[24H] Frango Kung Fu
-http://srvx.io:80/3646266796/fireurl.co/47679
-#EXTINF:-1 tvg-logo="http://a5.vc/kG2" group-title="Canais | 24 Horas",[24H] Frankenstein Junior
-http://srvx.io:80/3646266796/fireurl.co/47680
-#EXTINF:-1 tvg-logo="http://a5.vc/6TP" group-title="Canais | 24 Horas",[24H] Freakazoid
-http://srvx.io:80/3646266796/fireurl.co/47681
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S01
-http://srvx.io:80/3646266796/fireurl.co/47682
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S02
-http://srvx.io:80/3646266796/fireurl.co/47683
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S03
-http://srvx.io:80/3646266796/fireurl.co/47684
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S04
-http://srvx.io:80/3646266796/fireurl.co/47685
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S05
-http://srvx.io:80/3646266796/fireurl.co/47686
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S06
-http://srvx.io:80/3646266796/fireurl.co/47687
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S07 [LEG]
-http://srvx.io:80/3646266796/fireurl.co/47688
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S08 [LEG]
-http://srvx.io:80/3646266796/fireurl.co/47689
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S09 [LEG]
-http://srvx.io:80/3646266796/fireurl.co/47690
-#EXTINF:-1 tvg-logo="http://a5.vc/xCR" group-title="Canais | 24 Horas",[24H] Friends - S10
-http://srvx.io:80/3646266796/fireurl.co/47691
-#EXTINF:-1 tvg-logo="http://a5.vc/JMn" group-title="Canais | 24 Horas",[24H] Galaxy Rangers
-http://srvx.io:80/3646266796/fireurl.co/47692
-#EXTINF:-1 tvg-logo="http://a5.vc/2UR" group-title="Canais | 24 Horas",[24H] Galaxy Trio
-http://srvx.io:80/3646266796/fireurl.co/47693
-#EXTINF:-1 tvg-logo="http://a5.vc/rsy" group-title="Canais | 24 Horas",[24H] Galinha Pintadinha
-http://srvx.io:80/3646266796/fireurl.co/47694
-#EXTINF:-1 tvg-logo="http://a5.vc/wTv" group-title="Canais | 24 Horas",[24H] Game Of Thrones - S01
-http://srvx.io:80/3646266796/fireurl.co/47695
-#EXTINF:-1 tvg-logo="http://a5.vc/wTv" group-title="Canais | 24 Horas",[24H] Game Of Thrones - S02
-http://srvx.io:80/3646266796/fireurl.co/47696
-#EXTINF:-1 tvg-logo="http://a5.vc/wTv" group-title="Canais | 24 Horas",[24H] Game Of Thrones - S03
-http://srvx.io:80/3646266796/fireurl.co/47697
-#EXTINF:-1 tvg-logo="http://a5.vc/wTv" group-title="Canais | 24 Horas",[24H] Game Of Thrones - S04
-http://srvx.io:80/3646266796/fireurl.co/47698
-#EXTINF:-1 tvg-logo="http://a5.vc/wTv" group-title="Canais | 24 Horas",[24H] Game Of Thrones - S05
-http://srvx.io:80/3646266796/fireurl.co/47699
-#EXTINF:-1 tvg-logo="http://a5.vc/wTv" group-title="Canais | 24 Horas",[24H] Game Of Thrones - S06
-http://srvx.io:80/3646266796/fireurl.co/47700
-#EXTINF:-1 tvg-logo="http://a5.vc/wTv" group-title="Canais | 24 Horas",[24H] Game Of Thrones - S07
-http://srvx.io:80/3646266796/fireurl.co/47701
-#EXTINF:-1 tvg-logo="http://a5.vc/wTv" group-title="Canais | 24 Horas",[24H] Game Of Thrones - S08
-http://srvx.io:80/3646266796/fireurl.co/47702
-#EXTINF:-1 tvg-logo="http://a5.vc/lmA" group-title="Canais | 24 Horas",[24H] Garfield e Seus Amigos
-http://srvx.io:80/3646266796/fireurl.co/47703
-#EXTINF:-1 tvg-logo="http://a5.vc/yPE" group-title="Canais | 24 Horas",[24H] Gasparzinho e Amigos
-http://srvx.io:80/3646266796/fireurl.co/47704
-#EXTINF:-1 tvg-logo="http://a5.vc/x3B" group-title="Canais | 24 Horas",[24H] Gato Felix
-http://srvx.io:80/3646266796/fireurl.co/47705
-#EXTINF:-1 tvg-logo="http://a5.vc/tyh" group-title="Canais | 24 Horas",[24H] Go Diego Go
-http://srvx.io:80/3646266796/fireurl.co/47706
-#EXTINF:-1 tvg-logo="http://a5.vc/X6u" group-title="Canais | 24 Horas",[24H] Guerreiras Magicas de Rayearth
-http://srvx.io:80/3646266796/fireurl.co/47707
-#EXTINF:-1 tvg-logo="http://a5.vc/gAV" group-title="Canais | 24 Horas",[24H] Guerreiros Miticos
-http://srvx.io:80/3646266796/fireurl.co/47708
-#EXTINF:-1 tvg-logo="http://a5.vc/qj8" group-title="Canais | 24 Horas",[24H] Gundam Wing
-http://srvx.io:80/3646266796/fireurl.co/47709
-#EXTINF:-1 tvg-logo="http://a5.vc/JGq" group-title="Canais | 24 Horas",[24H] Hamtaro
-http://srvx.io:80/3646266796/fireurl.co/47710
-#EXTINF:-1 tvg-logo="http://a5.vc/UrB" group-title="Canais | 24 Horas",[24H] Harvey O Advogado
-http://srvx.io:80/3646266796/fireurl.co/47711
-#EXTINF:-1 tvg-logo="http://a5.vc/AvS" group-title="Canais | 24 Horas",[24H] Hello Kitty
-http://srvx.io:80/3646266796/fireurl.co/47712
-#EXTINF:-1 tvg-logo="http://a5.vc/7B7" group-title="Canais | 24 Horas",[24H] Hercules
-http://srvx.io:80/3646266796/fireurl.co/47713
-#EXTINF:-1 tvg-logo="http://a5.vc/TvJ" group-title="Canais | 24 Horas",[24H] Herculoides
-http://srvx.io:80/3646266796/fireurl.co/47714
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S01
-http://srvx.io:80/3646266796/fireurl.co/47715
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S02
-http://srvx.io:80/3646266796/fireurl.co/47716
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S03
-http://srvx.io:80/3646266796/fireurl.co/47717
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S04
-http://srvx.io:80/3646266796/fireurl.co/47718
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S05
-http://srvx.io:80/3646266796/fireurl.co/47719
-#EXTINF:-1 tvg-logo="http://a5.vc/paq" group-title="Canais | 24 Horas",[24H] Hickory Dickory e Doc
-http://srvx.io:80/3646266796/fireurl.co/47720
-#EXTINF:-1 tvg-logo="http://a5.vc/SPl" group-title="Canais | 24 Horas",[24H] Hilda
-http://srvx.io:80/3646266796/fireurl.co/47721
-#EXTINF:-1 tvg-logo="http://a5.vc/D8R" group-title="Canais | 24 Horas",[24H] Hip Hop Video Traxx
-http://srvx.io:80/3646266796/fireurl.co/47722
-#EXTINF:-1 tvg-logo="http://a5.vc/MJe" group-title="Canais | 24 Horas",[24H] Historias Animadas do Novo Testamento
-http://srvx.io:80/3646266796/fireurl.co/47723
-#EXTINF:-1 tvg-logo="http://a5.vc/MJe" group-title="Canais | 24 Horas",[24H] Historias Animadas do Velho Testamento
-http://srvx.io:80/3646266796/fireurl.co/47724
-#EXTINF:-1 tvg-logo="http://a5.vc/uEJ" group-title="Canais | 24 Horas",[24H] Historinhas de Dragoes
-http://srvx.io:80/3646266796/fireurl.co/47725
-#EXTINF:-1 tvg-logo="http://a5.vc/kx6" group-title="Canais | 24 Horas",[24H] Ho Ho Limpicos
-http://srvx.io:80/3646266796/fireurl.co/47726
-#EXTINF:-1 tvg-logo="http://a5.vc/3gl" group-title="Canais | 24 Horas",[24H] Homem Aranha - Acao Sem Limites
-http://srvx.io:80/3646266796/fireurl.co/47727
-#EXTINF:-1 tvg-logo="http://a5.vc/Kvi" group-title="Canais | 24 Horas",[24H] Homem Passaro
-http://srvx.io:80/3646266796/fireurl.co/47728
-#EXTINF:-1 tvg-logo="http://a5.vc/mXc" group-title="Canais | 24 Horas",[24H] Hong Kong Fu
-http://srvx.io:80/3646266796/fireurl.co/47729
-#EXTINF:-1 tvg-logo="http://a5.vc/Jnj" group-title="Canais | 24 Horas",[24H] Hot Wheels Battle Force 5
-http://srvx.io:80/3646266796/fireurl.co/47730
-#EXTINF:-1 tvg-logo="http://a5.vc/fXi" group-title="Canais | 24 Horas",[24H] Hulk
-http://srvx.io:80/3646266796/fireurl.co/47731
-#EXTINF:-1 tvg-logo="http://a5.vc/3xh" group-title="Canais | 24 Horas",[24H] iCarly - S01
-http://srvx.io:80/3646266796/fireurl.co/47732
-#EXTINF:-1 tvg-logo="http://a5.vc/3xh" group-title="Canais | 24 Horas",[24H] iCarly - S02
-http://srvx.io:80/3646266796/fireurl.co/47733
-#EXTINF:-1 tvg-logo="http://a5.vc/3xh" group-title="Canais | 24 Horas",[24H] iCarly - S03
-http://srvx.io:80/3646266796/fireurl.co/47734
-#EXTINF:-1 tvg-logo="http://a5.vc/3xh" group-title="Canais | 24 Horas",[24H] iCarly - S04
-http://srvx.io:80/3646266796/fireurl.co/47735
-#EXTINF:-1 tvg-logo="http://a5.vc/3xh" group-title="Canais | 24 Horas",[24H] iCarly - S05
-http://srvx.io:80/3646266796/fireurl.co/47736
-#EXTINF:-1 tvg-logo="http://a5.vc/3xh" group-title="Canais | 24 Horas",[24H] iCarly - S06
-http://srvx.io:80/3646266796/fireurl.co/47737
-#EXTINF:-1 tvg-logo="http://a5.vc/3xh" group-title="Canais | 24 Horas",[24H] iCarly - S07
-http://srvx.io:80/3646266796/fireurl.co/47738
-#EXTINF:-1 tvg-logo="http://a5.vc/1ok" group-title="Canais | 24 Horas",[24H] Ilha dos Desafios
-http://srvx.io:80/3646266796/fireurl.co/47739
-#EXTINF:-1 tvg-logo="http://a5.vc/SrI" group-title="Canais | 24 Horas",[24H] Inspetor Willoughby
-http://srvx.io:80/3646266796/fireurl.co/47740
-#EXTINF:-1 tvg-logo="http://a5.vc/pKA" group-title="Canais | 24 Horas",[24H] Invasor Zin
-http://srvx.io:80/3646266796/fireurl.co/47741
-#EXTINF:-1 tvg-logo="http://a5.vc/9dq" group-title="Canais | 24 Horas",[24H] Irmao do Jorel
-http://srvx.io:80/3646266796/fireurl.co/47742
-#EXTINF:-1 tvg-logo="http://a5.vc/0bR" group-title="Canais | 24 Horas",[24H] Jambo e Ruivao
-http://srvx.io:80/3646266796/fireurl.co/47743
-#EXTINF:-1 tvg-logo="http://a5.vc/VKI" group-title="Canais | 24 Horas",[24H] Jaspion
-http://srvx.io:80/3646266796/fireurl.co/47744
-#EXTINF:-1 tvg-logo="http://a5.vc/atE" group-title="Canais | 24 Horas",[24H] Jem e as Hologramas
-http://srvx.io:80/3646266796/fireurl.co/47745
-#EXTINF:-1 tvg-logo="http://a5.vc/WbI" group-title="Canais | 24 Horas",[24H] Joao Grandao
-http://srvx.io:80/3646266796/fireurl.co/47746
-#EXTINF:-1 tvg-logo="http://a5.vc/SdQ" group-title="Canais | 24 Horas",[24H] Johnny Bravo
-http://srvx.io:80/3646266796/fireurl.co/47747
-#EXTINF:-1 tvg-logo="http://a5.vc/BP7" group-title="Canais | 24 Horas",[24H] Jonny Quest
-http://srvx.io:80/3646266796/fireurl.co/47748
-#EXTINF:-1 tvg-logo="http://a5.vc/syE" group-title="Canais | 24 Horas",[24H] Josie e As Gatinhas
-http://srvx.io:80/3646266796/fireurl.co/47749
-#EXTINF:-1 tvg-logo="http://a5.vc/ei0" group-title="Canais | 24 Horas",[24H] Jubei Chan The Ninja Girl
-http://srvx.io:80/3646266796/fireurl.co/47750
-#EXTINF:-1 tvg-logo="http://a5.vc/jzC" group-title="Canais | 24 Horas",[24H] Kenan e Kell
-http://srvx.io:80/3646266796/fireurl.co/47751
-#EXTINF:-1 tvg-logo="http://a5.vc/v9J" group-title="Canais | 24 Horas",[24H] Kick Buttowski
-http://srvx.io:80/3646266796/fireurl.co/47752
-#EXTINF:-1 tvg-logo="http://a5.vc/I1L" group-title="Canais | 24 Horas",[24H] Kim Possible
-http://srvx.io:80/3646266796/fireurl.co/47753
-#EXTINF:-1 tvg-logo="http://a5.vc/zRc" group-title="Canais | 24 Horas",[24H] Kimba
-http://srvx.io:80/3646266796/fireurl.co/47754
-#EXTINF:-1 tvg-logo="http://a5.vc/E76" group-title="Canais | 24 Horas",[24H] KND A Turma do Bairro
-http://srvx.io:80/3646266796/fireurl.co/47755
-#EXTINF:-1 tvg-logo="http://a5.vc/LMv" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo - S01
-http://srvx.io:80/3646266796/fireurl.co/47756
-#EXTINF:-1 tvg-logo="http://a5.vc/LMv" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo - S02
-http://srvx.io:80/3646266796/fireurl.co/47757
-#EXTINF:-1 tvg-logo="http://a5.vc/LMv" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo - S03
-http://srvx.io:80/3646266796/fireurl.co/47758
-#EXTINF:-1 tvg-logo="http://a5.vc/DtV" group-title="Canais | 24 Horas",[24H] Larvas
-http://srvx.io:80/3646266796/fireurl.co/47759
-#EXTINF:-1 tvg-logo="http://a5.vc/uNO" group-title="Canais | 24 Horas",[24H] Lazy Town
-http://srvx.io:80/3646266796/fireurl.co/47760
-#EXTINF:-1 tvg-logo="http://a5.vc/mpu" group-title="Canais | 24 Horas",[24H] Leao da Montanha
-http://srvx.io:80/3646266796/fireurl.co/47761
-#EXTINF:-1 tvg-logo="http://a5.vc/YIi" group-title="Canais | 24 Horas",[24H] Leo o caminhao
-http://srvx.io:80/3646266796/fireurl.co/47762
-#EXTINF:-1 tvg-logo="http://a5.vc/xa4" group-title="Canais | 24 Horas",[24H] Ligeirinho
-http://srvx.io:80/3646266796/fireurl.co/47763
-#EXTINF:-1 tvg-logo="http://a5.vc/dWr" group-title="Canais | 24 Horas",[24H] Lil Bush (L)
-http://srvx.io:80/3646266796/fireurl.co/47764
-#EXTINF:-1 tvg-logo="http://a5.vc/axy" group-title="Canais | 24 Horas",[24H] Lilo e Stitch
-http://srvx.io:80/3646266796/fireurl.co/47765
-#EXTINF:-1 tvg-logo="http://a5.vc/ige" group-title="Canais | 24 Horas",[24H] Lippy e Hardy
-http://srvx.io:80/3646266796/fireurl.co/47766
-#EXTINF:-1 tvg-logo="http://a5.vc/kCh" group-title="Canais | 24 Horas",[24H] Lorde Gato e a Turma do Abobrinha
-http://srvx.io:80/3646266796/fireurl.co/47767
-#EXTINF:-1 tvg-logo="http://a5.vc/ZCu" group-title="Canais | 24 Horas",[24H] Lula Lele
-http://srvx.io:80/3646266796/fireurl.co/47768
-#EXTINF:-1 tvg-logo="http://a5.vc/h98" group-title="Canais | 24 Horas",[24H] Luluzinha
-http://srvx.io:80/3646266796/fireurl.co/47769
-#EXTINF:-1 tvg-logo="http://a5.vc/V3T" group-title="Canais | 24 Horas",[24H] Madeline
-http://srvx.io:80/3646266796/fireurl.co/47770
-#EXTINF:-1 tvg-logo="http://a5.vc/fEf" group-title="Canais | 24 Horas",[24H] Mae e Pai - Curta Metragem
-http://srvx.io:80/3646266796/fireurl.co/47771
-#EXTINF:-1 tvg-logo="http://a5.vc/JFj" group-title="Canais | 24 Horas",[24H] Maguila O Gorila
-http://srvx.io:80/3646266796/fireurl.co/47772
-#EXTINF:-1 tvg-logo="http://a5.vc/bj6" group-title="Canais | 24 Horas",[24H] Manda Chuva
-http://srvx.io:80/3646266796/fireurl.co/47773
-#EXTINF:-1 tvg-logo="http://a5.vc/Dms" group-title="Canais | 24 Horas",[24H] Manual do Ned
-http://srvx.io:80/3646266796/fireurl.co/47774
-#EXTINF:-1 tvg-logo="http://a5.vc/rj5" group-title="Canais | 24 Horas",[24H] Marcelino Pao e Vinho
-http://srvx.io:80/3646266796/fireurl.co/47775
-#EXTINF:-1 tvg-logo="http://a5.vc/VW4" group-title="Canais | 24 Horas",[24H] Marsupilami
-http://srvx.io:80/3646266796/fireurl.co/47776
-#EXTINF:-1 tvg-logo="http://a5.vc/rLO" group-title="Canais | 24 Horas",[24H] Martin Mystery
-http://srvx.io:80/3646266796/fireurl.co/47777
-#EXTINF:-1 tvg-logo="http://a5.vc/2So" group-title="Canais | 24 Horas",[24H] Matracatrica e Fofoquinha
-http://srvx.io:80/3646266796/fireurl.co/47778
-#EXTINF:-1 tvg-logo="http://a5.vc/mNq" group-title="Canais | 24 Horas",[24H] Mecanimais
-http://srvx.io:80/3646266796/fireurl.co/47779
-#EXTINF:-1 tvg-logo="http://a5.vc/ElM" group-title="Canais | 24 Horas",[24H] Medabots
-http://srvx.io:80/3646266796/fireurl.co/47780
-#EXTINF:-1 tvg-logo="http://a5.vc/r1A" group-title="Canais | 24 Horas",[24H] Megaman
-http://srvx.io:80/3646266796/fireurl.co/47781
-#EXTINF:-1 tvg-logo="http://a5.vc/rWf" group-title="Canais | 24 Horas",[24H] Megas XRL
-http://srvx.io:80/3646266796/fireurl.co/47782
-#EXTINF:-1 tvg-logo="http://a5.vc/BEr" group-title="Canais | 24 Horas",[24H] Meu Melhor Amigo da Escola e Um Macaco
-http://srvx.io:80/3646266796/fireurl.co/47783
-#EXTINF:-1 tvg-logo="http://a5.vc/NR2" group-title="Canais | 24 Horas",[24H] MIB - Homens de Preto
-http://srvx.io:80/3646266796/fireurl.co/47784
-#EXTINF:-1 tvg-logo="http://a5.vc/f7m" group-title="Canais | 24 Horas",[24H] Migthor
-http://srvx.io:80/3646266796/fireurl.co/47785
-#EXTINF:-1 tvg-logo="http://a5.vc/KMl" group-title="Canais | 24 Horas",[24H] Mini Polegar e Yougui
-http://srvx.io:80/3646266796/fireurl.co/47786
-#EXTINF:-1 tvg-logo="http://a5.vc/wX6" group-title="Canais | 24 Horas",[24H] Mission Hill
-http://srvx.io:80/3646266796/fireurl.co/47787
-#EXTINF:-1 tvg-logo="http://a5.vc/ma9" group-title="Canais | 24 Horas",[24H] Mister Magoo
-http://srvx.io:80/3646266796/fireurl.co/47788
-#EXTINF:-1 tvg-logo="http://a5.vc/vuy" group-title="Canais | 24 Horas",[24H] Moby Dick
-http://srvx.io:80/3646266796/fireurl.co/47789
-#EXTINF:-1 tvg-logo="http://a5.vc/c6w" group-title="Canais | 24 Horas",[24H] Monster Rancher
-http://srvx.io:80/3646266796/fireurl.co/47790
-#EXTINF:-1 tvg-logo="http://a5.vc/y7m" group-title="Canais | 24 Horas",[24H] Moranguinho Classico
-http://srvx.io:80/3646266796/fireurl.co/47791
-#EXTINF:-1 tvg-logo="http://a5.vc/Ud1" group-title="Canais | 24 Horas",[24H] Mortal Kombat
-http://srvx.io:80/3646266796/fireurl.co/47792
-#EXTINF:-1 tvg-logo="http://a5.vc/L3d" group-title="Canais | 24 Horas",[24H] Mosquito Mosquete e Moscardo
-http://srvx.io:80/3646266796/fireurl.co/47793
-#EXTINF:-1 tvg-logo="http://a5.vc/Apa" group-title="Canais | 24 Horas",[24H] Mr. Bean
-http://srvx.io:80/3646266796/fireurl.co/47794
-#EXTINF:-1 tvg-logo="http://a5.vc/c7q" group-title="Canais | 24 Horas",[24H] Mucha Lucha
-http://srvx.io:80/3646266796/fireurl.co/47795
-#EXTINF:-1 tvg-logo="http://a5.vc/cbt" group-title="Canais | 24 Horas",[24H] Musculo Total
-http://srvx.io:80/3646266796/fireurl.co/47796
-#EXTINF:-1 tvg-logo="http://a5.vc/dTt" group-title="Canais | 24 Horas",[24H] Mutante Rex
-http://srvx.io:80/3646266796/fireurl.co/47797
-#EXTINF:-1 tvg-logo="http://a5.vc/m0J" group-title="Canais | 24 Horas",[24H] Narcos - S01
-http://srvx.io:80/3646266796/fireurl.co/47798
-#EXTINF:-1 tvg-logo="http://a5.vc/m0J" group-title="Canais | 24 Horas",[24H] Narcos - S02
-http://srvx.io:80/3646266796/fireurl.co/47799
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S01
-http://srvx.io:80/3646266796/fireurl.co/47800
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S02
-http://srvx.io:80/3646266796/fireurl.co/47801
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S03
-http://srvx.io:80/3646266796/fireurl.co/47802
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S04
-http://srvx.io:80/3646266796/fireurl.co/47803
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S05
-http://srvx.io:80/3646266796/fireurl.co/47804
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S06
-http://srvx.io:80/3646266796/fireurl.co/47805
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S07
-http://srvx.io:80/3646266796/fireurl.co/47806
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S08
-http://srvx.io:80/3646266796/fireurl.co/47807
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S09
-http://srvx.io:80/3646266796/fireurl.co/47808
-#EXTINF:-1 tvg-logo="http://a5.vc/Qvb" group-title="Canais | 24 Horas",[24H] No Limite
-http://srvx.io:80/3646266796/fireurl.co/47809
-#EXTINF:-1 tvg-logo="http://a5.vc/hjw" group-title="Canais | 24 Horas",[24H] Novo Banana de Pijamas
-http://srvx.io:80/3646266796/fireurl.co/47810
-#EXTINF:-1 tvg-logo="http://a5.vc/Pv3" group-title="Canais | 24 Horas",[24H] O Acampamento de Lazlo
-http://srvx.io:80/3646266796/fireurl.co/47811
-#EXTINF:-1 tvg-logo="http://a5.vc/PIn" group-title="Canais | 24 Horas",[24H] O Chapolin Colorado
-http://srvx.io:80/3646266796/fireurl.co/47812
-#EXTINF:-1 tvg-logo="http://a5.vc/JxK" group-title="Canais | 24 Horas",[24H] O Coisa
-http://srvx.io:80/3646266796/fireurl.co/47813
-#EXTINF:-1 tvg-logo="http://a5.vc/arF" group-title="Canais | 24 Horas",[24H] O Fantastico Mundo de Bobby
-http://srvx.io:80/3646266796/fireurl.co/47814
-#EXTINF:-1 tvg-logo="http://a5.vc/rqB" group-title="Canais | 24 Horas",[24H] O Gato de Botas
-http://srvx.io:80/3646266796/fireurl.co/47815
-#EXTINF:-1 tvg-logo="http://a5.vc/lLb" group-title="Canais | 24 Horas",[24H] O Inspetor
-http://srvx.io:80/3646266796/fireurl.co/47816
-#EXTINF:-1 tvg-logo="http://a5.vc/4wl" group-title="Canais | 24 Horas",[24H] O Maskara - Serie Animada
-http://srvx.io:80/3646266796/fireurl.co/47817
-#EXTINF:-1 tvg-logo="http://a5.vc/N2x" group-title="Canais | 24 Horas",[24H] O Onibus Magico
-http://srvx.io:80/3646266796/fireurl.co/47818
-#EXTINF:-1 tvg-logo="http://a5.vc/O03" group-title="Canais | 24 Horas",[24H] O Pequeno Principe
-http://srvx.io:80/3646266796/fireurl.co/47819
-#EXTINF:-1 tvg-logo="http://a5.vc/ReI" group-title="Canais | 24 Horas",[24H] O Pequeno Scooby Doo
-http://srvx.io:80/3646266796/fireurl.co/47820
-#EXTINF:-1 tvg-logo="http://a5.vc/Yib" group-title="Canais | 24 Horas",[24H] O Pequeno Urso
-http://srvx.io:80/3646266796/fireurl.co/47821
-#EXTINF:-1 tvg-logo="http://a5.vc/hzf" group-title="Canais | 24 Horas",[24H] O Que Ha de Novo Scooby Doo
-http://srvx.io:80/3646266796/fireurl.co/47822
-#EXTINF:-1 tvg-logo="http://a5.vc/Ret" group-title="Canais | 24 Horas",[24H] O Rei do Pedaco
-http://srvx.io:80/3646266796/fireurl.co/47823
-#EXTINF:-1 tvg-logo="http://a5.vc/x8v" group-title="Canais | 24 Horas",[24H] O Segredo Alem do Jardim
-http://srvx.io:80/3646266796/fireurl.co/47824
-#EXTINF:-1 tvg-logo="http://a5.vc/XXT" group-title="Canais | 24 Horas",[24H] O Show da Luna
-http://srvx.io:80/3646266796/fireurl.co/47825
-#EXTINF:-1 tvg-logo="http://a5.vc/DoY" group-title="Canais | 24 Horas",[24H] O Show do Novo Pica-Pau
-http://srvx.io:80/3646266796/fireurl.co/47826
-#EXTINF:-1 tvg-logo="http://a5.vc/fci" group-title="Canais | 24 Horas",[24H] O Show do Ze Colmeia
-http://srvx.io:80/3646266796/fireurl.co/47827
-#EXTINF:-1 tvg-logo="http://a5.vc/DeO" group-title="Canais | 24 Horas",[24H] O Viralata
-http://srvx.io:80/3646266796/fireurl.co/47828
-#EXTINF:-1 tvg-logo="http://a5.vc/mLo" group-title="Canais | 24 Horas",[24H] O Xodo da Vovo
-http://srvx.io:80/3646266796/fireurl.co/47829
-#EXTINF:-1 tvg-logo="http://a5.vc/5bL" group-title="Canais | 24 Horas",[24H] Oggy e as Baratas
-http://srvx.io:80/3646266796/fireurl.co/47830
-#EXTINF:-1 tvg-logo="http://a5.vc/ZbT" group-title="Canais | 24 Horas",[24H] Os Animais do Bosque dos Vintens
-http://srvx.io:80/3646266796/fireurl.co/47831
-#EXTINF:-1 tvg-logo="http://a5.vc/Ozl" group-title="Canais | 24 Horas",[24H] Os Animaniacs
-http://srvx.io:80/3646266796/fireurl.co/47832
-#EXTINF:-1 tvg-logo="http://a5.vc/cE0" group-title="Canais | 24 Horas",[24H] Os Apuros de Penelope
-http://srvx.io:80/3646266796/fireurl.co/47833
-#EXTINF:-1 tvg-logo="http://a5.vc/ABp" group-title="Canais | 24 Horas",[24H] Os Castores Pirados
-http://srvx.io:80/3646266796/fireurl.co/47834
-#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Competlo
-http://srvx.io:80/3646266796/fireurl.co/47835
-#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Saga de Asgard
-http://srvx.io:80/3646266796/fireurl.co/47836
-#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Saga de Hades
-http://srvx.io:80/3646266796/fireurl.co/47837
-#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Saga de Poseidon
-http://srvx.io:80/3646266796/fireurl.co/47838
-#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Saga do Santuario
-http://srvx.io:80/3646266796/fireurl.co/47839
-#EXTINF:-1 tvg-logo="http://a5.vc/tko" group-title="Canais | 24 Horas",[24H] Os Feiticeiros De Waverly Place
-http://srvx.io:80/3646266796/fireurl.co/47840
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S01
-http://srvx.io:80/3646266796/fireurl.co/47841
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S02
-http://srvx.io:80/3646266796/fireurl.co/47842
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S03
-http://srvx.io:80/3646266796/fireurl.co/47843
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S04
-http://srvx.io:80/3646266796/fireurl.co/47844
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S05
-http://srvx.io:80/3646266796/fireurl.co/47845
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S06
-http://srvx.io:80/3646266796/fireurl.co/47846
-#EXTINF:-1 tvg-logo="http://a5.vc/KYG" group-title="Canais | 24 Horas",[24H] Os Gargulas
-http://srvx.io:80/3646266796/fireurl.co/47847
-#EXTINF:-1 tvg-logo="http://a5.vc/AYo" group-title="Canais | 24 Horas",[24H] Os Impossiveis
-http://srvx.io:80/3646266796/fireurl.co/47848
-#EXTINF:-1 tvg-logo="http://a5.vc/6MR" group-title="Canais | 24 Horas",[24H] Os Jetsons
-http://srvx.io:80/3646266796/fireurl.co/47849
-#EXTINF:-1 tvg-logo="http://a5.vc/MTm" group-title="Canais | 24 Horas",[24H] Os Jorges
-http://srvx.io:80/3646266796/fireurl.co/47850
-#EXTINF:-1 tvg-logo="http://a5.vc/82o" group-title="Canais | 24 Horas",[24H] Os Jovens Titans
-http://srvx.io:80/3646266796/fireurl.co/47851
-#EXTINF:-1 tvg-logo="http://a5.vc/2yV" group-title="Canais | 24 Horas",[24H] Os Pinguins de Madagascar
-http://srvx.io:80/3646266796/fireurl.co/47852
-#EXTINF:-1 tvg-logo="http://a5.vc/i8n" group-title="Canais | 24 Horas",[24H] Os Sete Monstrinhos
-http://srvx.io:80/3646266796/fireurl.co/47853
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S01
-http://srvx.io:80/3646266796/fireurl.co/47854
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S02
-http://srvx.io:80/3646266796/fireurl.co/47855
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S03
-http://srvx.io:80/3646266796/fireurl.co/47856
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S04
-http://srvx.io:80/3646266796/fireurl.co/47857
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S05
-http://srvx.io:80/3646266796/fireurl.co/47858
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S06
-http://srvx.io:80/3646266796/fireurl.co/47859
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S07
-http://srvx.io:80/3646266796/fireurl.co/47860
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S08
-http://srvx.io:80/3646266796/fireurl.co/47861
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S09
-http://srvx.io:80/3646266796/fireurl.co/47862
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S10
-http://srvx.io:80/3646266796/fireurl.co/47863
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S11
-http://srvx.io:80/3646266796/fireurl.co/47864
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S12
-http://srvx.io:80/3646266796/fireurl.co/47865
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S13
-http://srvx.io:80/3646266796/fireurl.co/47866
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S14
-http://srvx.io:80/3646266796/fireurl.co/47867
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S15
-http://srvx.io:80/3646266796/fireurl.co/47868
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S16
-http://srvx.io:80/3646266796/fireurl.co/47869
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S17
-http://srvx.io:80/3646266796/fireurl.co/47870
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S18
-http://srvx.io:80/3646266796/fireurl.co/47871
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S19
-http://srvx.io:80/3646266796/fireurl.co/47872
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S20
-http://srvx.io:80/3646266796/fireurl.co/47873
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S21
-http://srvx.io:80/3646266796/fireurl.co/47874
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S22
-http://srvx.io:80/3646266796/fireurl.co/47875
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S23
-http://srvx.io:80/3646266796/fireurl.co/47876
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S24
-http://srvx.io:80/3646266796/fireurl.co/47877
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S25
-http://srvx.io:80/3646266796/fireurl.co/47878
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S26
-http://srvx.io:80/3646266796/fireurl.co/47879
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S27
-http://srvx.io:80/3646266796/fireurl.co/47880
-#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S28
-http://srvx.io:80/3646266796/fireurl.co/47881
-#EXTINF:-1 tvg-logo="http://a5.vc/6tw" group-title="Canais | 24 Horas",[24H] Os Super Globetrotters
-http://srvx.io:80/3646266796/fireurl.co/47882
-#EXTINF:-1 tvg-logo="http://a5.vc/lnS" group-title="Canais | 24 Horas",[24H] Os Super Patos
-http://srvx.io:80/3646266796/fireurl.co/47883
-#EXTINF:-1 tvg-logo="http://a5.vc/xTc" group-title="Canais | 24 Horas",[24H] Os Trapalhoes
-http://srvx.io:80/3646266796/fireurl.co/47884
-#EXTINF:-1 tvg-logo="http://a5.vc/xTc" group-title="Canais | 24 Horas",[24H] Os Trapalhoes Classico
-http://srvx.io:80/3646266796/fireurl.co/47885
-#EXTINF:-1 tvg-logo="http://a5.vc/to5" group-title="Canais | 24 Horas",[24H] Os Ursinhos Gummi
-http://srvx.io:80/3646266796/fireurl.co/47886
-#EXTINF:-1 tvg-logo="http://a5.vc/gsy" group-title="Canais | 24 Horas",[24H] Os Valentes Cowboys de Moo Mesa
-http://srvx.io:80/3646266796/fireurl.co/47887
-#EXTINF:-1 tvg-logo="http://a5.vc/Z7k" group-title="Canais | 24 Horas",[24H] Os Videos Mais Incriveis do Mundo
-http://srvx.io:80/3646266796/fireurl.co/47888
-#EXTINF:-1 tvg-logo="http://a5.vc/UT5" group-title="Canais | 24 Horas",[24H] Os Vingadores
-http://srvx.io:80/3646266796/fireurl.co/47889
-#EXTINF:-1 tvg-logo="http://a5.vc/VnN" group-title="Canais | 24 Horas",[24H] Oswaldo
-http://srvx.io:80/3646266796/fireurl.co/47890
-#EXTINF:-1 tvg-logo="http://a5.vc/tTS" group-title="Canais | 24 Horas",[24H] Overman - Curta Metragem
-http://srvx.io:80/3646266796/fireurl.co/47891
-#EXTINF:-1 tvg-logo="http://a5.vc/gxQ" group-title="Canais | 24 Horas",[24H] Papa-Leguas e o Coyote
-http://srvx.io:80/3646266796/fireurl.co/47892
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Dormir
-http://srvx.io:80/3646266796/fireurl.co/47893
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Natureza 1
-http://srvx.io:80/3646266796/fireurl.co/47894
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Natureza 2
-http://srvx.io:80/3646266796/fireurl.co/47895
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Natureza 3
-http://srvx.io:80/3646266796/fireurl.co/47896
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Natureza 4
-http://srvx.io:80/3646266796/fireurl.co/47897
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Oceano
-http://srvx.io:80/3646266796/fireurl.co/47898
-#EXTINF:-1 tvg-logo="http://a5.vc/GFA" group-title="Canais | 24 Horas",[24H] Partoba
-http://srvx.io:80/3646266796/fireurl.co/47899
-#EXTINF:-1 tvg-logo="http://a5.vc/eZD" group-title="Canais | 24 Horas",[24H] Patlabor
-http://srvx.io:80/3646266796/fireurl.co/47900
-#EXTINF:-1 tvg-logo="http://a5.vc/pcy" group-title="Canais | 24 Horas",[24H] Patrulha Canina - S01
-http://srvx.io:80/3646266796/fireurl.co/47901
-#EXTINF:-1 tvg-logo="http://a5.vc/pcy" group-title="Canais | 24 Horas",[24H] Patrulha Canina - S02
-http://srvx.io:80/3646266796/fireurl.co/47902
-#EXTINF:-1 tvg-logo="http://a5.vc/pcy" group-title="Canais | 24 Horas",[24H] Patrulha Canina - S03
-http://srvx.io:80/3646266796/fireurl.co/47903
-#EXTINF:-1 tvg-logo="http://a5.vc/Peu" group-title="Canais | 24 Horas",[24H] Patrulha Estelar
-http://srvx.io:80/3646266796/fireurl.co/47904
-#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas Cameras Escondidas Silvio Santos
-http://srvx.io:80/3646266796/fireurl.co/47905
-#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas da RedeTV
-http://srvx.io:80/3646266796/fireurl.co/47906
-#EXTINF:-1 tvg-logo="http://a5.vc/a0N" group-title="Canais | 24 Horas",[24H] Pegadinhas Jalals
-http://srvx.io:80/3646266796/fireurl.co/47907
-#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas Joao Kleber
-http://srvx.io:80/3646266796/fireurl.co/47908
-#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas Silvio Santos
-http://srvx.io:80/3646266796/fireurl.co/47909
-#EXTINF:-1 tvg-logo="http://a5.vc/3sj" group-title="Canais | 24 Horas",[24H] Pepa Pig
-http://srvx.io:80/3646266796/fireurl.co/47910
-#EXTINF:-1 tvg-logo="http://a5.vc/Ouk" group-title="Canais | 24 Horas",[24H] Pepe Le Pew
-http://srvx.io:80/3646266796/fireurl.co/47911
-#EXTINF:-1 tvg-logo="http://a5.vc/2WY" group-title="Canais | 24 Horas",[24H] Perdido Nas Estrelas
-http://srvx.io:80/3646266796/fireurl.co/47912
-#EXTINF:-1 tvg-logo="http://a5.vc/GRW" group-title="Canais | 24 Horas",[24H] Perdidos no Espaco
-http://srvx.io:80/3646266796/fireurl.co/47913
-#EXTINF:-1 tvg-logo="http://a5.vc/3xR" group-title="Canais | 24 Horas",[24H] Pernalonga e Sua Turma
-http://srvx.io:80/3646266796/fireurl.co/47914
-#EXTINF:-1 tvg-logo="http://a5.vc/NTu" group-title="Canais | 24 Horas",[24H] Peter Potamus
-http://srvx.io:80/3646266796/fireurl.co/47915
-#EXTINF:-1 tvg-logo="http://a5.vc/04c" group-title="Canais | 24 Horas",[24H] Phineas e Ferb
-http://srvx.io:80/3646266796/fireurl.co/47916
-#EXTINF:-1 tvg-logo="http://a5.vc/KFQ" group-title="Canais | 24 Horas",[24H] Pica Pau
-http://srvx.io:80/3646266796/fireurl.co/47917
-#EXTINF:-1 tvg-logo="http://a5.vc/4HB" group-title="Canais | 24 Horas",[24H] Picolino
-http://srvx.io:80/3646266796/fireurl.co/47918
-#EXTINF:-1 tvg-logo="http://a5.vc/9HH" group-title="Canais | 24 Horas",[24H] Pingu
-http://srvx.io:80/3646266796/fireurl.co/47919
-#EXTINF:-1 tvg-logo="http://a5.vc/ja6" group-title="Canais | 24 Horas",[24H] Pinky e Cerebro
-http://srvx.io:80/3646266796/fireurl.co/47920
-#EXTINF:-1 tvg-logo="http://a5.vc/jO1" group-title="Canais | 24 Horas",[24H] Planet Survival
-http://srvx.io:80/3646266796/fireurl.co/47921
-#EXTINF:-1 tvg-logo="http://a5.vc/b3X" group-title="Canais | 24 Horas",[24H] Plic Ploc e Chuvisco
-http://srvx.io:80/3646266796/fireurl.co/47922
-#EXTINF:-1 tvg-logo="http://a5.vc/IfX" group-title="Canais | 24 Horas",[24H] Pocoyo
-http://srvx.io:80/3646266796/fireurl.co/47923
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S01
-http://srvx.io:80/3646266796/fireurl.co/47924
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S02
-http://srvx.io:80/3646266796/fireurl.co/47925
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S03
-http://srvx.io:80/3646266796/fireurl.co/47926
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S04
-http://srvx.io:80/3646266796/fireurl.co/47927
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S05
-http://srvx.io:80/3646266796/fireurl.co/47928
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S06
-http://srvx.io:80/3646266796/fireurl.co/47929
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S07
-http://srvx.io:80/3646266796/fireurl.co/47930
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S08
-http://srvx.io:80/3646266796/fireurl.co/47931
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S09
-http://srvx.io:80/3646266796/fireurl.co/47932
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S10
-http://srvx.io:80/3646266796/fireurl.co/47933
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S11
-http://srvx.io:80/3646266796/fireurl.co/47934
-#EXTINF:-1 tvg-logo="http://a5.vc/zp5" group-title="Canais | 24 Horas",[24H] Pokemon - S12
-http://srvx.io:80/3646266796/fireurl.co/47935
-#EXTINF:-1 tvg-logo="http://a5.vc/tbX" group-title="Canais | 24 Horas",[24H] Poleposition
-http://srvx.io:80/3646266796/fireurl.co/47936
-#EXTINF:-1 tvg-logo="http://a5.vc/GeX" group-title="Canais | 24 Horas",[24H] Policia
-http://srvx.io:80/3646266796/fireurl.co/47937
-#EXTINF:-1 tvg-logo="http://a5.vc/0Zv" group-title="Canais | 24 Horas",[24H] Popeye
-http://srvx.io:80/3646266796/fireurl.co/47938
-#EXTINF:-1 tvg-logo="http://a5.vc/hei" group-title="Canais | 24 Horas",[24H] Power Rangers - A Galaxia Perdida
-http://srvx.io:80/3646266796/fireurl.co/47939
-#EXTINF:-1 tvg-logo="http://a5.vc/eDZ" group-title="Canais | 24 Horas",[24H] Power Rangers - Dino Thunder
-http://srvx.io:80/3646266796/fireurl.co/47940
-#EXTINF:-1 tvg-logo="http://a5.vc/eI8" group-title="Canais | 24 Horas",[24H] Power Rangers - Mighty Morphin - S01
-http://srvx.io:80/3646266796/fireurl.co/47941
-#EXTINF:-1 tvg-logo="http://a5.vc/eI8" group-title="Canais | 24 Horas",[24H] Power Rangers - Mighty Morphin - S02
-http://srvx.io:80/3646266796/fireurl.co/47942
-#EXTINF:-1 tvg-logo="http://a5.vc/eI8" group-title="Canais | 24 Horas",[24H] Power Rangers - Mighty Morphin - S03
-http://srvx.io:80/3646266796/fireurl.co/47943
-#EXTINF:-1 tvg-logo="http://a5.vc/n26" group-title="Canais | 24 Horas",[24H] Power Rangers - Ninja Storm
-http://srvx.io:80/3646266796/fireurl.co/47944
-#EXTINF:-1 tvg-logo="http://a5.vc/EBd" group-title="Canais | 24 Horas",[24H] Power Rangers - Space Patrol Delta
-http://srvx.io:80/3646266796/fireurl.co/47945
-#EXTINF:-1 tvg-logo="http://a5.vc/VO6" group-title="Canais | 24 Horas",[24H] Power Rangers - Turbo
-http://srvx.io:80/3646266796/fireurl.co/47946
-#EXTINF:-1 tvg-logo="http://a5.vc/CFK" group-title="Canais | 24 Horas",[24H] Power Rangers - Zeo
-http://srvx.io:80/3646266796/fireurl.co/47947
-#EXTINF:-1 tvg-logo="http://a5.vc/1nz" group-title="Canais | 24 Horas",[24H] Power Stone
-http://srvx.io:80/3646266796/fireurl.co/47948
-#EXTINF:-1 tvg-logo="http://a5.vc/qGp" group-title="Canais | 24 Horas",[24H] Projeto Zeta
-http://srvx.io:80/3646266796/fireurl.co/47949
-#EXTINF:-1 tvg-logo="http://a5.vc/bz6" group-title="Canais | 24 Horas",[24H] Putz a Coisa ta Feia
-http://srvx.io:80/3646266796/fireurl.co/47950
-#EXTINF:-1 tvg-logo="http://a5.vc/I80" group-title="Canais | 24 Horas",[24H] Ragnarok
-http://srvx.io:80/3646266796/fireurl.co/47951
-#EXTINF:-1 tvg-logo="http://a5.vc/d23" group-title="Canais | 24 Horas",[24H] Recruta Zero
-http://srvx.io:80/3646266796/fireurl.co/47952
-#EXTINF:-1 tvg-logo="http://a5.vc/Wzo" group-title="Canais | 24 Horas",[24H] Redakai
-http://srvx.io:80/3646266796/fireurl.co/47953
-#EXTINF:-1 tvg-logo="http://a5.vc/qMx" group-title="Canais | 24 Horas",[24H] Ren e Stimpy
-http://srvx.io:80/3646266796/fireurl.co/47954
-#EXTINF:-1 tvg-logo="http://a5.vc/7iw" group-title="Canais | 24 Horas",[24H] Riquinho
-http://srvx.io:80/3646266796/fireurl.co/47955
-#EXTINF:-1 tvg-logo="http://a5.vc/d2X" group-title="Canais | 24 Horas",[24H] Rocket Power
-http://srvx.io:80/3646266796/fireurl.co/47956
-#EXTINF:-1 tvg-logo="http://a5.vc/R3G" group-title="Canais | 24 Horas",[24H] Rugrats os Anjinhos
-http://srvx.io:80/3646266796/fireurl.co/47957
-#EXTINF:-1 tvg-logo="http://a5.vc/mpN" group-title="Canais | 24 Horas",[24H] Sabados Secretos
-http://srvx.io:80/3646266796/fireurl.co/47958
-#EXTINF:-1 tvg-logo="http://a5.vc/xiH" group-title="Canais | 24 Horas",[24H] Sagwa a Gatinha Siamesa
-http://srvx.io:80/3646266796/fireurl.co/47959
-#EXTINF:-1 tvg-logo="http://a5.vc/tsH" group-title="Canais | 24 Horas",[24H] Sai de Baixo - S01
-http://srvx.io:80/3646266796/fireurl.co/47960
-#EXTINF:-1 tvg-logo="http://a5.vc/tsH" group-title="Canais | 24 Horas",[24H] Sai de Baixo - S02
-http://srvx.io:80/3646266796/fireurl.co/47961
-#EXTINF:-1 tvg-logo="http://a5.vc/tsH" group-title="Canais | 24 Horas",[24H] Sai de Baixo - S03
-http://srvx.io:80/3646266796/fireurl.co/47962
-#EXTINF:-1 tvg-logo="http://a5.vc/tsH" group-title="Canais | 24 Horas",[24H] Sai de Baixo - S04
-http://srvx.io:80/3646266796/fireurl.co/47963
-#EXTINF:-1 tvg-logo="http://a5.vc/tsH" group-title="Canais | 24 Horas",[24H] Sai de Baixo - S05
-http://srvx.io:80/3646266796/fireurl.co/47964
-#EXTINF:-1 tvg-logo="http://a5.vc/tsH" group-title="Canais | 24 Horas",[24H] Sai de Baixo - S06
-http://srvx.io:80/3646266796/fireurl.co/47965
-#EXTINF:-1 tvg-logo="http://a5.vc/tsH" group-title="Canais | 24 Horas",[24H] Sai de Baixo - S07
-http://srvx.io:80/3646266796/fireurl.co/47966
-#EXTINF:-1 tvg-logo="http://a5.vc/tsH" group-title="Canais | 24 Horas",[24H] Sai de Baixo - S08
-http://srvx.io:80/3646266796/fireurl.co/47967
-#EXTINF:-1 tvg-logo="http://a5.vc/ql9" group-title="Canais | 24 Horas",[24H] Sakura Card Captors
-http://srvx.io:80/3646266796/fireurl.co/47968
-#EXTINF:-1 tvg-logo="http://a5.vc/QVH" group-title="Canais | 24 Horas",[24H] Samurai Champloo
-http://srvx.io:80/3646266796/fireurl.co/47969
-#EXTINF:-1 tvg-logo="http://a5.vc/6v0" group-title="Canais | 24 Horas",[24H] Samurai Warriors
-http://srvx.io:80/3646266796/fireurl.co/47970
-#EXTINF:-1 tvg-logo="http://a5.vc/SyP" group-title="Canais | 24 Horas",[24H] Scoob Doo Show
-http://srvx.io:80/3646266796/fireurl.co/47971
-#EXTINF:-1 tvg-logo="http://a5.vc/bJ0" group-title="Canais | 24 Horas",[24H] Shaman King
-http://srvx.io:80/3646266796/fireurl.co/47972
-#EXTINF:-1 tvg-logo="http://a5.vc/kyA" group-title="Canais | 24 Horas",[24H] Shazzan
-http://srvx.io:80/3646266796/fireurl.co/47973
-#EXTINF:-1 tvg-logo="http://a5.vc/MKF" group-title="Canais | 24 Horas",[24H] She-Ra
-http://srvx.io:80/3646266796/fireurl.co/47974
-#EXTINF:-1 tvg-logo="http://a5.vc/p78" group-title="Canais | 24 Horas",[24H] Shinzo
-http://srvx.io:80/3646266796/fireurl.co/47975
-#EXTINF:-1 tvg-logo="http://a5.vc/jmV" group-title="Canais | 24 Horas",[24H] Shurato
-http://srvx.io:80/3646266796/fireurl.co/47976
-#EXTINF:-1 tvg-logo="http://a5.vc/GuJ" group-title="Canais | 24 Horas",[24H] Shuriken School
-http://srvx.io:80/3646266796/fireurl.co/47977
-#EXTINF:-1 tvg-logo="http://a5.vc/SyF" group-title="Canais | 24 Horas",[24H] Silverhawks [LEG]
-http://srvx.io:80/3646266796/fireurl.co/47978
-#EXTINF:-1 tvg-logo="http://a5.vc/Tkz" group-title="Canais | 24 Horas",[24H] Sitio do Pica Pau Amarelo
-http://srvx.io:80/3646266796/fireurl.co/47979
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S01
-http://srvx.io:80/3646266796/fireurl.co/47980
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S02
-http://srvx.io:80/3646266796/fireurl.co/47981
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S03
-http://srvx.io:80/3646266796/fireurl.co/47982
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S04
-http://srvx.io:80/3646266796/fireurl.co/47983
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S05
-http://srvx.io:80/3646266796/fireurl.co/47984
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S06
-http://srvx.io:80/3646266796/fireurl.co/47985
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S07
-http://srvx.io:80/3646266796/fireurl.co/47986
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S08
-http://srvx.io:80/3646266796/fireurl.co/47987
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S09
-http://srvx.io:80/3646266796/fireurl.co/47988
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S10
-http://srvx.io:80/3646266796/fireurl.co/47989
-#EXTINF:-1 tvg-logo="http://a5.vc/F1A" group-title="Canais | 24 Horas",[24H] Sonic Boom
-http://srvx.io:80/3646266796/fireurl.co/47990
-#EXTINF:-1 tvg-logo="http://a5.vc/F1A" group-title="Canais | 24 Horas",[24H] Sonic X
-http://srvx.io:80/3646266796/fireurl.co/47991
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S01
-http://srvx.io:80/3646266796/fireurl.co/47992
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S02
-http://srvx.io:80/3646266796/fireurl.co/47993
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S03
-http://srvx.io:80/3646266796/fireurl.co/47994
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S04
-http://srvx.io:80/3646266796/fireurl.co/47995
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S05
-http://srvx.io:80/3646266796/fireurl.co/47996
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S06
-http://srvx.io:80/3646266796/fireurl.co/47997
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S07
-http://srvx.io:80/3646266796/fireurl.co/47998
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S08
-http://srvx.io:80/3646266796/fireurl.co/47999
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S09
-http://srvx.io:80/3646266796/fireurl.co/48000
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S10
-http://srvx.io:80/3646266796/fireurl.co/48001
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S11
-http://srvx.io:80/3646266796/fireurl.co/48002
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S12
-http://srvx.io:80/3646266796/fireurl.co/48003
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S13
-http://srvx.io:80/3646266796/fireurl.co/48004
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S14
-http://srvx.io:80/3646266796/fireurl.co/48005
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S15
-http://srvx.io:80/3646266796/fireurl.co/48006
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S16
-http://srvx.io:80/3646266796/fireurl.co/48007
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S17
-http://srvx.io:80/3646266796/fireurl.co/48008
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S18
-http://srvx.io:80/3646266796/fireurl.co/48009
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S19
-http://srvx.io:80/3646266796/fireurl.co/48010
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S20
-http://srvx.io:80/3646266796/fireurl.co/48011
-#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S21
-http://srvx.io:80/3646266796/fireurl.co/48012
-#EXTINF:-1 tvg-logo="http://a5.vc/5XW" group-title="Canais | 24 Horas",[24H] Space Goofs
-http://srvx.io:80/3646266796/fireurl.co/48013
-#EXTINF:-1 tvg-logo="http://a5.vc/AJA" group-title="Canais | 24 Horas",[24H] Space Gost
-http://srvx.io:80/3646266796/fireurl.co/48014
-#EXTINF:-1 tvg-logo="http://a5.vc/VXM" group-title="Canais | 24 Horas",[24H] Speed Racer - A Nova Geracao
-http://srvx.io:80/3646266796/fireurl.co/48015
-#EXTINF:-1 tvg-logo="http://a5.vc/VXM" group-title="Canais | 24 Horas",[24H] Speed Racer - Classico
-http://srvx.io:80/3646266796/fireurl.co/48016
-#EXTINF:-1 tvg-logo="http://a5.vc/mbn" group-title="Canais | 24 Horas",[24H] Super Amigos
-http://srvx.io:80/3646266796/fireurl.co/48017
-#EXTINF:-1 tvg-logo="http://a5.vc/KVH" group-title="Canais | 24 Horas",[24H] Super Galo
-http://srvx.io:80/3646266796/fireurl.co/48018
-#EXTINF:-1 tvg-logo="http://a5.vc/XsN" group-title="Canais | 24 Horas",[24H] Super Mario Bros 3
-http://srvx.io:80/3646266796/fireurl.co/48019
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S01
-http://srvx.io:80/3646266796/fireurl.co/48020
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S02
-http://srvx.io:80/3646266796/fireurl.co/48021
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S03
-http://srvx.io:80/3646266796/fireurl.co/48022
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S04
-http://srvx.io:80/3646266796/fireurl.co/48023
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S05
-http://srvx.io:80/3646266796/fireurl.co/48024
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S06
-http://srvx.io:80/3646266796/fireurl.co/48025
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S07
-http://srvx.io:80/3646266796/fireurl.co/48026
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S08
-http://srvx.io:80/3646266796/fireurl.co/48027
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S09
-http://srvx.io:80/3646266796/fireurl.co/48028
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S10
-http://srvx.io:80/3646266796/fireurl.co/48029
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S11
-http://srvx.io:80/3646266796/fireurl.co/48030
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S12
-http://srvx.io:80/3646266796/fireurl.co/48031
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S13
-http://srvx.io:80/3646266796/fireurl.co/48032
-#EXTINF:-1 tvg-logo="http://a5.vc/MjB" group-title="Canais | 24 Horas",[24H] Supernatural - S14
-http://srvx.io:80/3646266796/fireurl.co/48033
-#EXTINF:-1 tvg-logo="http://a5.vc/hpe" group-title="Canais | 24 Horas",[24H] Swat Kats
-http://srvx.io:80/3646266796/fireurl.co/48034
-#EXTINF:-1 tvg-logo="http://a5.vc/2Kw" group-title="Canais | 24 Horas",[24H] Tartaruga Touche e Dum Dum
-http://srvx.io:80/3646266796/fireurl.co/48035
-#EXTINF:-1 tvg-logo="http://a5.vc/jKz" group-title="Canais | 24 Horas",[24H] Tarzan
-http://srvx.io:80/3646266796/fireurl.co/48036
-#EXTINF:-1 tvg-logo="http://a5.vc/u9T" group-title="Canais | 24 Horas",[24H] Tarzan O Rei da Selva
-http://srvx.io:80/3646266796/fireurl.co/48037
-#EXTINF:-1 tvg-logo="http://a5.vc/OnF" group-title="Canais | 24 Horas",[24H] Taz-Mania
-http://srvx.io:80/3646266796/fireurl.co/48038
-#EXTINF:-1 tvg-logo="http://a5.vc/mbf" group-title="Canais | 24 Horas",[24H] Team Galaxy
-http://srvx.io:80/3646266796/fireurl.co/48039
-#EXTINF:-1 tvg-logo="http://a5.vc/ECR" group-title="Canais | 24 Horas",[24H] Teletubbies Classico
-http://srvx.io:80/3646266796/fireurl.co/48040
-#EXTINF:-1 tvg-logo="http://a5.vc/YFx" group-title="Canais | 24 Horas",[24H] Teletubbies Novo
-http://srvx.io:80/3646266796/fireurl.co/48041
-#EXTINF:-1 tvg-logo="http://a5.vc/aOU" group-title="Canais | 24 Horas",[24H] Teletubbies Stop Motion
-http://srvx.io:80/3646266796/fireurl.co/48042
-#EXTINF:-1 tvg-logo="http://a5.vc/o1z" group-title="Canais | 24 Horas",[24H] Teste de Fidelidade
-http://srvx.io:80/3646266796/fireurl.co/48043
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S01
-http://srvx.io:80/3646266796/fireurl.co/48044
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S02
-http://srvx.io:80/3646266796/fireurl.co/48045
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S03
-http://srvx.io:80/3646266796/fireurl.co/48046
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S04
-http://srvx.io:80/3646266796/fireurl.co/48047
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S05
-http://srvx.io:80/3646266796/fireurl.co/48048
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S06
-http://srvx.io:80/3646266796/fireurl.co/48049
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S07
-http://srvx.io:80/3646266796/fireurl.co/48050
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S08
-http://srvx.io:80/3646266796/fireurl.co/48051
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S09
-http://srvx.io:80/3646266796/fireurl.co/48052
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S10
-http://srvx.io:80/3646266796/fireurl.co/48053
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S11
-http://srvx.io:80/3646266796/fireurl.co/48054
-#EXTINF:-1 tvg-logo="http://a5.vc/gtE" group-title="Canais | 24 Horas",[24H] The Big Bang Theory - S12
-http://srvx.io:80/3646266796/fireurl.co/48055
-#EXTINF:-1 tvg-logo="http://a5.vc/9QP" group-title="Canais | 24 Horas",[24H] The Oblongs
-http://srvx.io:80/3646266796/fireurl.co/48056
-#EXTINF:-1 tvg-logo="http://a5.vc/6jG" group-title="Canais | 24 Horas",[24H] Thomas e Seus Amigos
-http://srvx.io:80/3646266796/fireurl.co/48057
-#EXTINF:-1 tvg-logo="http://a5.vc/lP9" group-title="Canais | 24 Horas",[24H] Thundercats
-http://srvx.io:80/3646266796/fireurl.co/48058
-#EXTINF:-1 tvg-logo="http://a5.vc/nNe" group-title="Canais | 24 Horas",[24H] Timao e Pumba
-http://srvx.io:80/3646266796/fireurl.co/48059
-#EXTINF:-1 tvg-logo="http://a5.vc/TaJ" group-title="Canais | 24 Horas",[24H] Tita Simbionico
-http://srvx.io:80/3646266796/fireurl.co/48060
-#EXTINF:-1 tvg-logo="http://a5.vc/b7R" group-title="Canais | 24 Horas",[24H] Titio Avo
-http://srvx.io:80/3646266796/fireurl.co/48061
-#EXTINF:-1 tvg-logo="http://a5.vc/2sz" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia O Chris - S01
-http://srvx.io:80/3646266796/fireurl.co/48062
-#EXTINF:-1 tvg-logo="http://a5.vc/2sz" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia O Chris - S02
-http://srvx.io:80/3646266796/fireurl.co/48063
-#EXTINF:-1 tvg-logo="http://a5.vc/2sz" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia O Chris - S03
-http://srvx.io:80/3646266796/fireurl.co/48064
-#EXTINF:-1 tvg-logo="http://a5.vc/2sz" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia O Chris - S04
-http://srvx.io:80/3646266796/fireurl.co/48065
-#EXTINF:-1 tvg-logo="http://a5.vc/Msm" group-title="Canais | 24 Horas",[24H] Tom e Jerry
-http://srvx.io:80/3646266796/fireurl.co/48066
-#EXTINF:-1 tvg-logo="http://a5.vc/j4V" group-title="Canais | 24 Horas",[24H] Tom Sem Freio
-http://srvx.io:80/3646266796/fireurl.co/48067
-#EXTINF:-1 tvg-logo="http://a5.vc/9AW" group-title="Canais | 24 Horas",[24H] Topo Gigio
-http://srvx.io:80/3646266796/fireurl.co/48068
-#EXTINF:-1 tvg-logo="http://a5.vc/m9R" group-title="Canais | 24 Horas",[24H] Touradas
-http://srvx.io:80/3646266796/fireurl.co/48069
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S01
-http://srvx.io:80/3646266796/fireurl.co/48070
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S02
-http://srvx.io:80/3646266796/fireurl.co/48071
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S03
-http://srvx.io:80/3646266796/fireurl.co/48072
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S04
-http://srvx.io:80/3646266796/fireurl.co/48073
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S05
-http://srvx.io:80/3646266796/fireurl.co/48074
-#EXTINF:-1 tvg-logo="http://a5.vc/NWF" group-title="Canais | 24 Horas",[24H] Tunel do Tempo
-http://srvx.io:80/3646266796/fireurl.co/48075
-#EXTINF:-1 tvg-logo="http://a5.vc/go6" group-title="Canais | 24 Horas",[24H] Turbo Man
-http://srvx.io:80/3646266796/fireurl.co/48076
-#EXTINF:-1 tvg-logo="http://a5.vc/WCr" group-title="Canais | 24 Horas",[24H] Tutubarao
-http://srvx.io:80/3646266796/fireurl.co/48077
-#EXTINF:-1 tvg-logo="http://a5.vc/eyz" group-title="Canais | 24 Horas",[24H] Ultramen
-http://srvx.io:80/3646266796/fireurl.co/48078
-#EXTINF:-1 tvg-logo="http://a5.vc/IiR" group-title="Canais | 24 Horas",[24H] Um Maluco No Pedaco - S01
-http://srvx.io:80/3646266796/fireurl.co/48079
-#EXTINF:-1 tvg-logo="http://a5.vc/IiR" group-title="Canais | 24 Horas",[24H] Um Maluco No Pedaco - S02
-http://srvx.io:80/3646266796/fireurl.co/48080
-#EXTINF:-1 tvg-logo="http://a5.vc/IiR" group-title="Canais | 24 Horas",[24H] Um Maluco No Pedaco - S03
-http://srvx.io:80/3646266796/fireurl.co/48081
-#EXTINF:-1 tvg-logo="http://a5.vc/IiR" group-title="Canais | 24 Horas",[24H] Um Maluco No Pedaco - S04
-http://srvx.io:80/3646266796/fireurl.co/48082
-#EXTINF:-1 tvg-logo="http://a5.vc/IiR" group-title="Canais | 24 Horas",[24H] Um Maluco No Pedaco - S05
-http://srvx.io:80/3646266796/fireurl.co/48083
-#EXTINF:-1 tvg-logo="http://a5.vc/IiR" group-title="Canais | 24 Horas",[24H] Um Maluco No Pedaco - S06
-http://srvx.io:80/3646266796/fireurl.co/48084
-#EXTINF:-1 tvg-logo="http://a5.vc/uYY" group-title="Canais | 24 Horas",[24H] Ursinho Pooh e Seus Amigos
-http://srvx.io:80/3646266796/fireurl.co/48085
-#EXTINF:-1 tvg-logo="http://a5.vc/NeR" group-title="Canais | 24 Horas",[24H] Ursinhos Carinhosos
-http://srvx.io:80/3646266796/fireurl.co/48086
-#EXTINF:-1 tvg-logo="http://a5.vc/GhJ" group-title="Canais | 24 Horas",[24H] Vale dos Dinossauros
-http://srvx.io:80/3646266796/fireurl.co/48087
-#EXTINF:-1 tvg-logo="http://a5.vc/uQG" group-title="Canais | 24 Horas",[24H] Wally Gator
-http://srvx.io:80/3646266796/fireurl.co/48088
-#EXTINF:-1 tvg-logo="http://a5.vc/VeW" group-title="Canais | 24 Horas",[24H] Xuxa So Para Baixinhos
-http://srvx.io:80/3646266796/fireurl.co/48089
-#EXTINF:-1 tvg-logo="http://a5.vc/v6G" group-title="Canais | 24 Horas",[24H] Yu Yu Hakusho
-http://srvx.io:80/3646266796/fireurl.co/48090
-#EXTINF:-1 tvg-logo="http://a5.vc/xeM" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh Classico - S01
-http://srvx.io:80/3646266796/fireurl.co/48091
-#EXTINF:-1 tvg-logo="http://a5.vc/xeM" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh Classico - S02
-http://srvx.io:80/3646266796/fireurl.co/48092
-#EXTINF:-1 tvg-logo="http://a5.vc/xeM" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh Classico - S03
-http://srvx.io:80/3646266796/fireurl.co/48093
-#EXTINF:-1 tvg-logo="http://a5.vc/xeM" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh Classico - S04
-http://srvx.io:80/3646266796/fireurl.co/48094
-#EXTINF:-1 tvg-logo="http://a5.vc/xeM" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh Classico - S05
-http://srvx.io:80/3646266796/fireurl.co/48095
-#EXTINF:-1 tvg-logo="http://a5.vc/xeM" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh Classico - S06
-http://srvx.io:80/3646266796/fireurl.co/48096
-#EXTINF:-1 tvg-logo="http://a5.vc/xeM" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh Classico - S07
-http://srvx.io:80/3646266796/fireurl.co/48097
-#EXTINF:-1 tvg-logo="http://a5.vc/Qxr" group-title="Canais | 24 Horas",[24H] Zack e Cody Gemeos a Bordo
-http://srvx.io:80/3646266796/fireurl.co/48098
-#EXTINF:-1 tvg-logo="http://a5.vc/Ft3" group-title="Canais | 24 Horas",[24H] Zatch Bell
-http://srvx.io:80/3646266796/fireurl.co/48099
-#EXTINF:-1 tvg-logo="http://a5.vc/LTn" group-title="Canais | 24 Horas",[24H] Ze Bolha e Juca Bala - Curta Metragem
-http://srvx.io:80/3646266796/fireurl.co/48100
-#EXTINF:-1 tvg-logo="http://a5.vc/dPi" group-title="Canais | 24 Horas",[24H] Ze Buscape
-http://srvx.io:80/3646266796/fireurl.co/48101
-#EXTINF:-1 tvg-logo="http://a5.vc/b8E" group-title="Canais | 24 Horas",[24H] Zillion
-http://srvx.io:80/3646266796/fireurl.co/48102
-#EXTINF:-1 tvg-logo="http://a5.vc/q6D" group-title="Canais | 24 Horas",[24H] Zoboomafoo
-http://srvx.io:80/3646266796/fireurl.co/48103
-#EXTINF:-1 tvg-logo="http://a5.vc/FoQ" group-title="Canais | 24 Horas",[24H] Zoey 101
-http://srvx.io:80/3646266796/fireurl.co/48104
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2008)
-http://srvx.io:80/3646266796/fireurl.co/48105
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2009)
-http://srvx.io:80/3646266796/fireurl.co/48106
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2010)
-http://srvx.io:80/3646266796/fireurl.co/48107
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2011)
-http://srvx.io:80/3646266796/fireurl.co/48108
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2012)
-http://srvx.io:80/3646266796/fireurl.co/48109
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2013)
-http://srvx.io:80/3646266796/fireurl.co/48110
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2014)
-http://srvx.io:80/3646266796/fireurl.co/48111
