@@ -45,14 +45,6 @@ http://srvx.io:80/3646266796/fireurl.co/71778
 http://srvx.io:80/3646266796/fireurl.co/71779
 #EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 SD
 http://srvx.io:80/3646266796/fireurl.co/71780
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD
-http://srvx.io:80/3646266796/fireurl.co/71781
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/71782
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN HD
-http://srvx.io:80/3646266796/fireurl.co/71783
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN SD
-http://srvx.io:80/3646266796/fireurl.co/71784
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band BA SD
 http://srvx.io:80/3646266796/fireurl.co/72620
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD
@@ -77,7 +69,7 @@ http://srvx.io:80/3646266796/fireurl.co/71793
 http://srvx.io:80/3646266796/fireurl.co/71794
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Prudente SD
 http://srvx.io:80/3646266796/fireurl.co/71795
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | 4K [FHDR]",Band RJ 4K FHDR
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | 4K [FHDR]",CNN Brasil 4K FHDR
 http://srvx.io:80/3646266796/fireurl.co/71798
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ FHD
 http://srvx.io:80/3646266796/fireurl.co/71796
@@ -87,8 +79,12 @@ http://srvx.io:80/3646266796/fireurl.co/71797
 http://srvx.io:80/3646266796/fireurl.co/71799
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ SD
 http://srvx.io:80/3646266796/fireurl.co/71800
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band SP FHD
+http://srvx.io:80/3646266796/fireurl.co/79311
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band SP HD
 http://srvx.io:80/3646266796/fireurl.co/72597
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band SP SD
+http://srvx.io:80/3646266796/fireurl.co/79312
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD
 http://srvx.io:80/3646266796/fireurl.co/71801
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD [H265]
@@ -153,26 +149,6 @@ http://srvx.io:80/3646266796/fireurl.co/71829
 http://srvx.io:80/3646266796/fireurl.co/71831
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
 http://srvx.io:80/3646266796/fireurl.co/71832
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 1 HD
-http://srvx.io:80/3646266796/fireurl.co/72994
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 10 HD
-http://srvx.io:80/3646266796/fireurl.co/73003
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 2 HD
-http://srvx.io:80/3646266796/fireurl.co/72995
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 3 HD
-http://srvx.io:80/3646266796/fireurl.co/72996
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 4 HD
-http://srvx.io:80/3646266796/fireurl.co/72997
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 5 HD
-http://srvx.io:80/3646266796/fireurl.co/72998
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 6 HD
-http://srvx.io:80/3646266796/fireurl.co/72999
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 7 HD
-http://srvx.io:80/3646266796/fireurl.co/73000
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 8 HD
-http://srvx.io:80/3646266796/fireurl.co/73001
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 9 HD
-http://srvx.io:80/3646266796/fireurl.co/73002
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD
 http://srvx.io:80/3646266796/fireurl.co/71833
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
@@ -209,38 +185,6 @@ http://srvx.io:80/3646266796/fireurl.co/71848
 http://srvx.io:80/3646266796/fireurl.co/71849
 #EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central SD
 http://srvx.io:80/3646266796/fireurl.co/71850
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD
-http://srvx.io:80/3646266796/fireurl.co/72977
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/72978
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 HD
-http://srvx.io:80/3646266796/fireurl.co/72979
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 SD
-http://srvx.io:80/3646266796/fireurl.co/72980
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD
-http://srvx.io:80/3646266796/fireurl.co/72981
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/72982
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 HD
-http://srvx.io:80/3646266796/fireurl.co/72983
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 SD
-http://srvx.io:80/3646266796/fireurl.co/72984
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD
-http://srvx.io:80/3646266796/fireurl.co/72985
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/72986
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 HD
-http://srvx.io:80/3646266796/fireurl.co/72987
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 SD
-http://srvx.io:80/3646266796/fireurl.co/72988
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD
-http://srvx.io:80/3646266796/fireurl.co/72989
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/72990
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 HD
-http://srvx.io:80/3646266796/fireurl.co/72991
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 SD
-http://srvx.io:80/3646266796/fireurl.co/72992
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
 http://srvx.io:80/3646266796/fireurl.co/71851
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD [H265]
@@ -257,14 +201,6 @@ http://srvx.io:80/3646266796/fireurl.co/71856
 http://srvx.io:80/3646266796/fireurl.co/71857
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta SD
 http://srvx.io:80/3646266796/fireurl.co/71858
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 FHD
-http://srvx.io:80/3646266796/fireurl.co/71859
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 HD
-http://srvx.io:80/3646266796/fireurl.co/71860
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 SD
-http://srvx.io:80/3646266796/fireurl.co/71861
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 2 HD
-http://srvx.io:80/3646266796/fireurl.co/72630
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
 http://srvx.io:80/3646266796/fireurl.co/71864
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD
@@ -283,14 +219,6 @@ http://srvx.io:80/3646266796/fireurl.co/71868
 http://srvx.io:80/3646266796/fireurl.co/71869
 #EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H SD
 http://srvx.io:80/3646266796/fireurl.co/71870
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD
-http://srvx.io:80/3646266796/fireurl.co/71871
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/71872
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids HD
-http://srvx.io:80/3646266796/fireurl.co/71873
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
-http://srvx.io:80/3646266796/fireurl.co/71874
 #EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD
 http://srvx.io:80/3646266796/fireurl.co/71875
 #EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD [H265]
@@ -413,6 +341,10 @@ http://srvx.io:80/3646266796/fireurl.co/71922
 http://srvx.io:80/3646266796/fireurl.co/71923
 #EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 
 http://srvx.io:80/3646266796/fireurl.co/73005
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 2 
+http://srvx.io:80/3646266796/fireurl.co/79316
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 3 
+http://srvx.io:80/3646266796/fireurl.co/79317
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD
 http://srvx.io:80/3646266796/fireurl.co/71924
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD [H265]
@@ -741,7 +673,7 @@ http://srvx.io:80/3646266796/fireurl.co/72076
 http://srvx.io:80/3646266796/fireurl.co/72077
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena SD
 http://srvx.io:80/3646266796/fireurl.co/72078
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | 4K [FHDR]",Globo TV Rio Sul 4K FHDR
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | 4K [FHDR]",Globo TV Verdes Mares 4K FHDR
 http://srvx.io:80/3646266796/fireurl.co/72080
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul FHD
 http://srvx.io:80/3646266796/fireurl.co/72079
@@ -1137,462 +1069,6 @@ http://srvx.io:80/3646266796/fireurl.co/72268
 http://srvx.io:80/3646266796/fireurl.co/72269
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil SD
 http://srvx.io:80/3646266796/fireurl.co/72270
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: 24 Kitchen FHD
-http://srvx.io:80/3646266796/fireurl.co/74798
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: 24 Kitchen FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74799
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: A Bola TV
-http://srvx.io:80/3646266796/fireurl.co/74800
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: A Bola TV FHD
-http://srvx.io:80/3646266796/fireurl.co/74801
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Afro Music Channel
-http://srvx.io:80/3646266796/fireurl.co/74802
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AMC
-http://srvx.io:80/3646266796/fireurl.co/74803
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AMC FHD
-http://srvx.io:80/3646266796/fireurl.co/74804
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AMC H265
-http://srvx.io:80/3646266796/fireurl.co/74805
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: ARTV Parlamento
-http://srvx.io:80/3646266796/fireurl.co/74806
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN Black
-http://srvx.io:80/3646266796/fireurl.co/74807
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN Black FHD
-http://srvx.io:80/3646266796/fireurl.co/74808
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN Black FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74809
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN FHD
-http://srvx.io:80/3646266796/fireurl.co/74810
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74811
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN White
-http://srvx.io:80/3646266796/fireurl.co/74812
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN White FHD
-http://srvx.io:80/3646266796/fireurl.co/74813
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN White FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74814
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Baby TV
-http://srvx.io:80/3646266796/fireurl.co/74815
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BBC World News
-http://srvx.io:80/3646266796/fireurl.co/74816
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Blaze
-http://srvx.io:80/3646266796/fireurl.co/74817
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Blaze FHD
-http://srvx.io:80/3646266796/fireurl.co/74818
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Bloomberg
-http://srvx.io:80/3646266796/fireurl.co/74819
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Boomerang
-http://srvx.io:80/3646266796/fireurl.co/74820
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV
-http://srvx.io:80/3646266796/fireurl.co/74821
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV FHD
-http://srvx.io:80/3646266796/fireurl.co/74823
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74824
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV HD
-http://srvx.io:80/3646266796/fireurl.co/74825
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV SD
-http://srvx.io:80/3646266796/fireurl.co/74822
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Cacavision
-http://srvx.io:80/3646266796/fireurl.co/74826
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal 11
-http://srvx.io:80/3646266796/fireurl.co/74827
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal 11 FHD
-http://srvx.io:80/3646266796/fireurl.co/74828
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal 11 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74829
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal Historia
-http://srvx.io:80/3646266796/fireurl.co/74830
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal Panda
-http://srvx.io:80/3646266796/fireurl.co/74831
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal Q
-http://srvx.io:80/3646266796/fireurl.co/74832
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CANCAO NOVA
-http://srvx.io:80/3646266796/fireurl.co/74833
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Cartoon Network
-http://srvx.io:80/3646266796/fireurl.co/74834
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Caza e Pesca
-http://srvx.io:80/3646266796/fireurl.co/74835
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CBS Reality
-http://srvx.io:80/3646266796/fireurl.co/74836
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CineMundo
-http://srvx.io:80/3646266796/fireurl.co/74837
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CineMundo FHD
-http://srvx.io:80/3646266796/fireurl.co/74838
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Clubbing TV
-http://srvx.io:80/3646266796/fireurl.co/74839
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CMTV
-http://srvx.io:80/3646266796/fireurl.co/74840
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CMTV FHD
-http://srvx.io:80/3646266796/fireurl.co/74841
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CNBC
-http://srvx.io:80/3646266796/fireurl.co/74842
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CNN
-http://srvx.io:80/3646266796/fireurl.co/74843
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Crime Investigation
-http://srvx.io:80/3646266796/fireurl.co/74844
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Discovery Channel
-http://srvx.io:80/3646266796/fireurl.co/74845
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Discovery Channel FHD
-http://srvx.io:80/3646266796/fireurl.co/74846
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Discovery FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74847
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Disney Channel
-http://srvx.io:80/3646266796/fireurl.co/74848
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Disney Junior
-http://srvx.io:80/3646266796/fireurl.co/74849
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Dog TV FHD
-http://srvx.io:80/3646266796/fireurl.co/74850
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: E! Entertainment
-http://srvx.io:80/3646266796/fireurl.co/74851
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 FHD
-http://srvx.io:80/3646266796/fireurl.co/74853
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74854
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 HD
-http://srvx.io:80/3646266796/fireurl.co/74855
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 SD
-http://srvx.io:80/3646266796/fireurl.co/74852
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 FHD
-http://srvx.io:80/3646266796/fireurl.co/74857
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74858
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 HD
-http://srvx.io:80/3646266796/fireurl.co/74859
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 SD
-http://srvx.io:80/3646266796/fireurl.co/74856
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 3 FHD
-http://srvx.io:80/3646266796/fireurl.co/74861
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 3 HD
-http://srvx.io:80/3646266796/fireurl.co/74862
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 3 SD
-http://srvx.io:80/3646266796/fireurl.co/74860
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 4 FHD
-http://srvx.io:80/3646266796/fireurl.co/74864
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 4 HD
-http://srvx.io:80/3646266796/fireurl.co/74865
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 4 SD
-http://srvx.io:80/3646266796/fireurl.co/74863
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 5 FHD
-http://srvx.io:80/3646266796/fireurl.co/74867
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 5 HD
-http://srvx.io:80/3646266796/fireurl.co/74868
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 5 SD
-http://srvx.io:80/3646266796/fireurl.co/74866
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 6 FHD
-http://srvx.io:80/3646266796/fireurl.co/74870
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 6 SD
-http://srvx.io:80/3646266796/fireurl.co/74869
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Euronews
-http://srvx.io:80/3646266796/fireurl.co/74871
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eurosport 1 FHD
-http://srvx.io:80/3646266796/fireurl.co/74872
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: EuroSport 1 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74873
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eurosport 2
-http://srvx.io:80/3646266796/fireurl.co/74874
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fashion TV
-http://srvx.io:80/3646266796/fireurl.co/74875
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fight Network FHD
-http://srvx.io:80/3646266796/fireurl.co/74876
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fine Living Network FHD
-http://srvx.io:80/3646266796/fireurl.co/74877
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Food Network FHD
-http://srvx.io:80/3646266796/fireurl.co/74878
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox
-http://srvx.io:80/3646266796/fireurl.co/74879
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Comedy
-http://srvx.io:80/3646266796/fireurl.co/74880
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Comedy FHD
-http://srvx.io:80/3646266796/fireurl.co/74881
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Crime
-http://srvx.io:80/3646266796/fireurl.co/74882
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Crime FHD
-http://srvx.io:80/3646266796/fireurl.co/74883
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: FOX Crime FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74884
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox FHD
-http://srvx.io:80/3646266796/fireurl.co/74885
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: FOX FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74886
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Life
-http://srvx.io:80/3646266796/fireurl.co/74887
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Life FHD
-http://srvx.io:80/3646266796/fireurl.co/74888
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: FOX Life FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74889
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Movies
-http://srvx.io:80/3646266796/fireurl.co/74890
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Movies FHD
-http://srvx.io:80/3646266796/fireurl.co/74891
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox News
-http://srvx.io:80/3646266796/fireurl.co/74892
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fuel TV
-http://srvx.io:80/3646266796/fireurl.co/74893
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fuel TV FHD
-http://srvx.io:80/3646266796/fireurl.co/74894
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Hollywood
-http://srvx.io:80/3646266796/fireurl.co/74895
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Hollywood FHD
-http://srvx.io:80/3646266796/fireurl.co/74896
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Hollywood FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74897
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: IConcerts FHD
-http://srvx.io:80/3646266796/fireurl.co/74898
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: ID Investigation Discovery FHD
-http://srvx.io:80/3646266796/fireurl.co/74899
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Jim Jam
-http://srvx.io:80/3646266796/fireurl.co/74900
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Kombat Sport
-http://srvx.io:80/3646266796/fireurl.co/74901
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: LocalVisao HD
-http://srvx.io:80/3646266796/fireurl.co/74902
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Luxe.TV FHD
-http://srvx.io:80/3646266796/fireurl.co/74903
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MCM Pop
-http://srvx.io:80/3646266796/fireurl.co/74904
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MCM Top
-http://srvx.io:80/3646266796/fireurl.co/74905
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Mezzo
-http://srvx.io:80/3646266796/fireurl.co/74906
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Motorvision
-http://srvx.io:80/3646266796/fireurl.co/74907
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MTV Portugal
-http://srvx.io:80/3646266796/fireurl.co/74908
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MTV Portugal FHD
-http://srvx.io:80/3646266796/fireurl.co/74909
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MVM TV
-http://srvx.io:80/3646266796/fireurl.co/74910
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: My Cuisinne
-http://srvx.io:80/3646266796/fireurl.co/74911
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo
-http://srvx.io:80/3646266796/fireurl.co/74912
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo FHD
-http://srvx.io:80/3646266796/fireurl.co/74913
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74914
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo Wild
-http://srvx.io:80/3646266796/fireurl.co/74915
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo Wild FHD
-http://srvx.io:80/3646266796/fireurl.co/74916
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NBA
-http://srvx.io:80/3646266796/fireurl.co/74917
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NBA FHD
-http://srvx.io:80/3646266796/fireurl.co/74918
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nick JR.
-http://srvx.io:80/3646266796/fireurl.co/74919
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nickelodeon
-http://srvx.io:80/3646266796/fireurl.co/74920
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NOS Studios
-http://srvx.io:80/3646266796/fireurl.co/74921
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NOS Studios FHD
-http://srvx.io:80/3646266796/fireurl.co/74922
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NOS Studios FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74923
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Odisseia
-http://srvx.io:80/3646266796/fireurl.co/74924
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Odisseia FHD
-http://srvx.io:80/3646266796/fireurl.co/74925
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Panda Biggs
-http://srvx.io:80/3646266796/fireurl.co/74926
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: PFC
-http://srvx.io:80/3646266796/fireurl.co/74927
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Porto Canal
-http://srvx.io:80/3646266796/fireurl.co/74928
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Porto Canal FHD
-http://srvx.io:80/3646266796/fireurl.co/74929
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RECORD TV (NA)
-http://srvx.io:80/3646266796/fireurl.co/74930
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 1
-http://srvx.io:80/3646266796/fireurl.co/74931
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 1 FHD
-http://srvx.io:80/3646266796/fireurl.co/74932
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 1 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74933
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 2
-http://srvx.io:80/3646266796/fireurl.co/74934
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 2 FHD
-http://srvx.io:80/3646266796/fireurl.co/74935
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 2 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74936
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 3
-http://srvx.io:80/3646266796/fireurl.co/74937
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 3 FHD
-http://srvx.io:80/3646266796/fireurl.co/74938
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Acores
-http://srvx.io:80/3646266796/fireurl.co/74939
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Africa
-http://srvx.io:80/3646266796/fireurl.co/74940
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Madeira
-http://srvx.io:80/3646266796/fireurl.co/74941
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Memoria
-http://srvx.io:80/3646266796/fireurl.co/74942
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Santuario Fatima
-http://srvx.io:80/3646266796/fireurl.co/74943
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Saude FHD
-http://srvx.io:80/3646266796/fireurl.co/74944
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC
-http://srvx.io:80/3646266796/fireurl.co/74945
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Caras
-http://srvx.io:80/3646266796/fireurl.co/74946
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Caras FHD
-http://srvx.io:80/3646266796/fireurl.co/74947
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC FHD
-http://srvx.io:80/3646266796/fireurl.co/74948
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74949
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sic Kids FHD
-http://srvx.io:80/3646266796/fireurl.co/74950
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Mulher
-http://srvx.io:80/3646266796/fireurl.co/74951
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Mulher FHD
-http://srvx.io:80/3646266796/fireurl.co/74952
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Noticias
-http://srvx.io:80/3646266796/fireurl.co/74953
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Noticias FHD
-http://srvx.io:80/3646266796/fireurl.co/74954
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Radical
-http://srvx.io:80/3646266796/fireurl.co/74955
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Radical FHD
-http://srvx.io:80/3646266796/fireurl.co/74956
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sky News
-http://srvx.io:80/3646266796/fireurl.co/74957
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1
-http://srvx.io:80/3646266796/fireurl.co/74958
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 FHD
-http://srvx.io:80/3646266796/fireurl.co/74960
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74961
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 HD
-http://srvx.io:80/3646266796/fireurl.co/74962
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 SD
-http://srvx.io:80/3646266796/fireurl.co/74959
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2
-http://srvx.io:80/3646266796/fireurl.co/74963
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 FHD
-http://srvx.io:80/3646266796/fireurl.co/74965
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74966
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 HD
-http://srvx.io:80/3646266796/fireurl.co/74967
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 SD
-http://srvx.io:80/3646266796/fireurl.co/74964
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3
-http://srvx.io:80/3646266796/fireurl.co/74968
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3 FHD
-http://srvx.io:80/3646266796/fireurl.co/74969
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3 FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74970
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3 HD
-http://srvx.io:80/3646266796/fireurl.co/74971
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 4
-http://srvx.io:80/3646266796/fireurl.co/74972
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 4 FHD
-http://srvx.io:80/3646266796/fireurl.co/74973
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 4 HD
-http://srvx.io:80/3646266796/fireurl.co/74974
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 5
-http://srvx.io:80/3646266796/fireurl.co/74975
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 5 FHD
-http://srvx.io:80/3646266796/fireurl.co/74976
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 5 HD
-http://srvx.io:80/3646266796/fireurl.co/74977
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV NBA FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/74978
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV+
-http://srvx.io:80/3646266796/fireurl.co/74979
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV+ FHD
-http://srvx.io:80/3646266796/fireurl.co/74980
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sporting TV
-http://srvx.io:80/3646266796/fireurl.co/74981
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sporting TV FHD
-http://srvx.io:80/3646266796/fireurl.co/74982
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SyFy
-http://srvx.io:80/3646266796/fireurl.co/74983
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SyFy FHD
-http://srvx.io:80/3646266796/fireurl.co/74984
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TCV Internacional
-http://srvx.io:80/3646266796/fireurl.co/74985
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TLC
-http://srvx.io:80/3646266796/fireurl.co/74986
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Toros TV
-http://srvx.io:80/3646266796/fireurl.co/74987
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TPA
-http://srvx.io:80/3646266796/fireurl.co/74988
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TPA Internacional
-http://srvx.io:80/3646266796/fireurl.co/74989
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Trace & Urban
-http://srvx.io:80/3646266796/fireurl.co/74990
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Trace & Urban FHD
-http://srvx.io:80/3646266796/fireurl.co/74991
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Trace Toca
-http://srvx.io:80/3646266796/fireurl.co/74992
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Travel Channel
-http://srvx.io:80/3646266796/fireurl.co/74993
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Travel Channel FHD
-http://srvx.io:80/3646266796/fireurl.co/74994
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Globo
-http://srvx.io:80/3646266796/fireurl.co/74995
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Globo FHD
-http://srvx.io:80/3646266796/fireurl.co/74996
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Globo NOW
-http://srvx.io:80/3646266796/fireurl.co/74997
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV RECORD
-http://srvx.io:80/3646266796/fireurl.co/74998
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Record FHD
-http://srvx.io:80/3646266796/fireurl.co/74999
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Series FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/75000
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVC News
-http://srvx.io:80/3646266796/fireurl.co/75001
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine ACTION
-http://srvx.io:80/3646266796/fireurl.co/75002
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine ACTION FHD
-http://srvx.io:80/3646266796/fireurl.co/75003
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Action FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/75004
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EDITION
-http://srvx.io:80/3646266796/fireurl.co/75005
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EDITION FHD
-http://srvx.io:80/3646266796/fireurl.co/75006
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Edition FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/75007
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EMOTION
-http://srvx.io:80/3646266796/fireurl.co/75008
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EMOTION FHD
-http://srvx.io:80/3646266796/fireurl.co/75009
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Emotion FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/75010
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine TOP
-http://srvx.io:80/3646266796/fireurl.co/75011
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine TOP FHD
-http://srvx.io:80/3646266796/fireurl.co/75012
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Top FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/75013
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI
-http://srvx.io:80/3646266796/fireurl.co/75014
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI 24
-http://srvx.io:80/3646266796/fireurl.co/75015
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI 24 FHD
-http://srvx.io:80/3646266796/fireurl.co/75016
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI FHD
-http://srvx.io:80/3646266796/fireurl.co/75017
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI FHD [H265]
-http://srvx.io:80/3646266796/fireurl.co/75020
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Ficcao
-http://srvx.io:80/3646266796/fireurl.co/75018
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Ficcao FHD
-http://srvx.io:80/3646266796/fireurl.co/75019
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Reality
-http://srvx.io:80/3646266796/fireurl.co/75021
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Reality FHD
-http://srvx.io:80/3646266796/fireurl.co/75022
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: VH1
-http://srvx.io:80/3646266796/fireurl.co/75023
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: VH1 Classic
-http://srvx.io:80/3646266796/fireurl.co/75024
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: ZAP Viva FHD
-http://srvx.io:80/3646266796/fireurl.co/75025
 #EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News FHD
 http://srvx.io:80/3646266796/fireurl.co/72271
 #EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News HD
@@ -1683,6 +1159,12 @@ http://srvx.io:80/3646266796/fireurl.co/72299
 http://srvx.io:80/3646266796/fireurl.co/72300
 #EXTINF:-1 tvg-logo="http://a5.vc/4Ve" group-title="Canais | Religiosos",RIT TV SD
 http://srvx.io:80/3646266796/fireurl.co/72301
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT ES FHD
+http://srvx.io:80/3646266796/fireurl.co/79308
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT ES HD
+http://srvx.io:80/3646266796/fireurl.co/79309
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT ES SD
+http://srvx.io:80/3646266796/fireurl.co/79310
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR FHD
 http://srvx.io:80/3646266796/fireurl.co/72303
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR FHD [H265]
@@ -1921,6 +1403,12 @@ http://srvx.io:80/3646266796/fireurl.co/72405
 http://srvx.io:80/3646266796/fireurl.co/72406
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP SD
 http://srvx.io:80/3646266796/fireurl.co/72407
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarapari FHD
+http://srvx.io:80/3646266796/fireurl.co/79313
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarapari HD
+http://srvx.io:80/3646266796/fireurl.co/79314
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarapari SD
+http://srvx.io:80/3646266796/fireurl.co/79315
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Justiça SD
 http://srvx.io:80/3646266796/fireurl.co/77620
 #EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD
