@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 1 FHD
+http://srvx.io:80/3646266796/fireurl.co/89722
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 1 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/89721
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 1 HD
+http://srvx.io:80/3646266796/fireurl.co/89720
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 1 SD
+http://srvx.io:80/3646266796/fireurl.co/89719
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 2 FHD
+http://srvx.io:80/3646266796/fireurl.co/89718
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 2 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/89717
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 2 HD
+http://srvx.io:80/3646266796/fireurl.co/89716
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 2 SD
+http://srvx.io:80/3646266796/fireurl.co/89715
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 3 FHD
+http://srvx.io:80/3646266796/fireurl.co/89714
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 3 FHD [H265]
+http://srvx.io:80/3646266796/fireurl.co/89713
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 3 HD
+http://srvx.io:80/3646266796/fireurl.co/89712
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | Variedades",BBB 3 SD
+http://srvx.io:80/3646266796/fireurl.co/89711
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
 http://srvx.io:80/3646266796/fireurl.co/72599
 #EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 SD
